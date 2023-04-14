@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="13.253" height="13.252" viewBox="0 0 13.253 13.252">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Retângulo_71" data-name="Retângulo 71" width="13.253" height="13.252" transform="translate(0 0)" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="pv_cuidado" transform="translate(0 0)">
+    <g id="Grupo_137" data-name="Grupo 137" clip-path="url(#clip-path)">
+      <path id="Caminho_63" data-name="Caminho 63" d="M4.217,6.626a2.41,2.41,0,0,1,2.41,2.41v1.807a2.41,2.41,0,0,1-2.41,2.409H0V9.036a2.41,2.41,0,0,1,2.41-2.41Z" fill="#f8966b"/>
+      <path id="Retângulo_70" data-name="Retângulo 70" d="M2.41,0H4.218A2.409,2.409,0,0,1,6.627,2.409V4.216a2.41,2.41,0,0,1-2.41,2.41H2.41A2.41,2.41,0,0,1,0,4.216V2.41A2.41,2.41,0,0,1,2.41,0Z" transform="translate(6.626 0)" fill="#ffd1a4"/>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,11 @@
+<svg id="pv_socioemocional" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="15.592" height="15.591" viewBox="0 0 15.592 15.591">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Retângulo_75" data-name="Retângulo 75" width="15.592" height="15.591" transform="translate(0 0)" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="Grupo_139" data-name="Grupo 139" clip-path="url(#clip-path)">
+    <path id="Caminho_65" data-name="Caminho 65" d="M4.961,7.8A2.835,2.835,0,0,1,7.8,10.631v2.126a2.834,2.834,0,0,1-2.835,2.834H0v-4.96A2.835,2.835,0,0,1,2.835,7.8Z" fill="#e8416a"/>
+    <path id="Retângulo_74" data-name="Retângulo 74" d="M2.835,0H4.962A2.834,2.834,0,0,1,7.8,2.834V4.96A2.835,2.835,0,0,1,4.961,7.8H2.835A2.835,2.835,0,0,1,0,4.96V2.835A2.835,2.835,0,0,1,2.835,0Z" transform="translate(7.795 0.001)" fill="#ee798e"/>
+  </g>
+</svg>

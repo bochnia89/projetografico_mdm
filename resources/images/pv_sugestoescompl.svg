@@ -1,0 +1,114 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="67.048" height="28.27" viewBox="0 0 67.048 28.27">
+  <defs>
+    <clipPath id="clip-path">
+      <path id="Caminho_50" data-name="Caminho 50" d="M47.674,21.143a3.937,3.937,0,0,0-3.937,3.937v10.2h10.2a3.937,3.937,0,0,0,3.937-3.937v-10.2Z" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <rect id="Retângulo_54" data-name="Retângulo 54" width="14.136" height="14.136" transform="translate(43.737 21.143)" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-3">
+      <path id="Caminho_51" data-name="Caminho 51" d="M61.809,7.156a3.936,3.936,0,0,0-3.936,3.937v10.2h10.2a3.937,3.937,0,0,0,3.936-3.937V7.156Z" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-4">
+      <rect id="Retângulo_56" data-name="Retângulo 56" width="14.135" height="14.136" transform="translate(57.873 7.156)" fill="none"/>
+    </clipPath>
+    <pattern id="pattern" preserveAspectRatio="none" width="100%" height="100%" viewBox="0 0 16 16">
+      <image width="16" height="16" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAFHSURBVDhPpVO7TgNBDPQmNEFUdPwtH8V/ID4ApaSlQYhcbs087LtQY8Xya2a8t3cZmRn/MQm8frzl1+U7Zh7CciNmMB9BfUaa4nBv5ojH0wNQsAXEa97FNY6KSzKyN9RbAXMNnyOWWTO4BCaUPTwAPERYBXBPXoISl+BRPAmsGIq0Cd2Q2ROBjlNSuATJ8wlIEAnb6bVBRJ2AMz7WTl6KUycgiWSCjtszcoNIuIeFkUT1fOL9EXqjQH0C53wbq27djh96jon5fok4jsGIAuJ1yQkkqnJEWn8+FgCJNYm0JipHwty+kxsjATXaWbNJQNXezjqrZyH2LSCAjQCTAWZdM3/yJbT1swVoDTTYALjqJtxgS1ACNA01LeJWN4mxBWsB8r93IFA5LpbGfBN1obyj/o0v5/fnz59LDWq7ICbSKLj3HJ/uT/ELcXM9Vgb5WaYAAAAASUVORK5CYII="/>
+    </pattern>
+    <clipPath id="clip-path-5">
+      <path id="Caminho_52" data-name="Caminho 52" d="M74.644,21.143a2.637,2.637,0,0,0-2.636,2.637v4.2a2.637,2.637,0,0,0,2.636,2.637h4.2a2.637,2.637,0,0,0,2.636-2.637V21.143Z" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-6">
+      <rect id="Retângulo_58" data-name="Retângulo 58" width="9.468" height="9.47" transform="translate(72.008 21.143)" fill="none"/>
+    </clipPath>
+    <pattern id="pattern-2" preserveAspectRatio="none" width="100%" height="100%" viewBox="0 0 10 11">
+      <image width="10" height="11" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAALCAYAAABGbhwYAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAACJSURBVChTjU/bEYAwDEq7/yzu4Ab+u0sjkEc9v6TXCwmU6HB3+4Nx3JcvH0a7Gyr4QkNOxMzOGQYcijJspEmzyQRdDlsg3w/ZI5EnBy2QpxkmAomqacpHMgUnqCExVuK/dLeJvAJkrOaVwFsNwAitllAJkiDGpzWm1oF8E1RB6mp1DVWjdI01bg9e7mrqC9jTMQAAAABJRU5ErkJggg=="/>
+    </pattern>
+    <clipPath id="clip-path-7">
+      <path id="Caminho_53" data-name="Caminho 53" d="M84.115,13.557a2.636,2.636,0,0,0-2.638,2.636v4.95h4.95a2.636,2.636,0,0,0,2.636-2.636V16.193a2.636,2.636,0,0,0-2.636-2.636Z" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-8">
+      <rect id="Retângulo_60" data-name="Retângulo 60" width="7.586" height="7.586" transform="translate(81.477 13.557)" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-9">
+      <path id="Caminho_54" data-name="Caminho 54" d="M91.7,21.144a2.637,2.637,0,0,0-2.638,2.636v2.437a2.513,2.513,0,0,0,2.514,2.513h2.436a2.637,2.637,0,0,0,2.637-2.636V23.78a2.637,2.637,0,0,0-2.637-2.636Z" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-10">
+      <rect id="Retângulo_62" data-name="Retângulo 62" width="7.587" height="7.586" transform="translate(89.064 21.144)" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-11">
+      <path id="Caminho_55" data-name="Caminho 55" d="M29.6,7.009V21.143H39.8a3.936,3.936,0,0,0,3.936-3.936V7.009Z" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-12">
+      <rect id="Retângulo_64" data-name="Retângulo 64" width="14.134" height="14.134" transform="translate(29.603 7.009)" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="pv_sugestoescompl" transform="translate(-29.603 -7.009)">
+    <g id="Grupo_97" data-name="Grupo 97">
+      <g id="Grupo_96" data-name="Grupo 96" clip-path="url(#clip-path)">
+        <g id="Grupo_95" data-name="Grupo 95">
+          <g id="Grupo_94" data-name="Grupo 94">
+            <g id="Grupo_93" data-name="Grupo 93" clip-path="url(#clip-path-2)">
+              <image id="Retângulo_53" data-name="Retângulo 53" width="14.4" height="14.4" transform="translate(43.68 20.992)" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAEcSURBVDhPpVI7FgIxCEz25HomOytbr2Bp4y0S5wNsdt+zMj6EDDMENulzzvbPUoHX5zbH7G3SWm+KO+MmbBBrG3Ba7sW/bqxiMTxESvwUgxPiLKQCOpUiECQ8iHfyup8qGgVGCNw+OzJmMoiJU4Q4efTuQEmATPbNBJFOPg6yeC2AoKyK8bRlbnaoLrl2boxgoMiKvU8ijUtx+h4FLJ72FACWMHLSgnzEYKhQ32C9OjwKeO5Icr7i8rboADaYwDG51yn07iwFXGu+RrCH4a8E7AaG5hwDq+8S3H2E1SsmiT+KIob3DSS3rtEbe8dcJJXgJMy4RlAik/L8mShO5vXkE8V43Dzf9wshvW+A+6PhtfJKPQafNQtkfrT2+AJCrDfkZoOn9AAAAABJRU5ErkJggg=="/>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g id="Grupo_102" data-name="Grupo 102">
+      <g id="Grupo_101" data-name="Grupo 101" clip-path="url(#clip-path-3)">
+        <g id="Grupo_100" data-name="Grupo 100">
+          <g id="Grupo_99" data-name="Grupo 99">
+            <g id="Grupo_98" data-name="Grupo 98" clip-path="url(#clip-path-4)">
+              <rect id="Retângulo_55" data-name="Retângulo 55" width="14.88" height="14.4" transform="translate(57.6 7.072)" fill="url(#pattern)"/>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g id="Grupo_107" data-name="Grupo 107">
+      <g id="Grupo_106" data-name="Grupo 106" clip-path="url(#clip-path-5)">
+        <g id="Grupo_105" data-name="Grupo 105">
+          <g id="Grupo_104" data-name="Grupo 104">
+            <g id="Grupo_103" data-name="Grupo 103" clip-path="url(#clip-path-6)">
+              <rect id="Retângulo_57" data-name="Retângulo 57" width="9.6" height="10.08" transform="translate(72 20.992)" fill="url(#pattern-2)"/>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g id="Grupo_112" data-name="Grupo 112">
+      <g id="Grupo_111" data-name="Grupo 111" clip-path="url(#clip-path-7)">
+        <g id="Grupo_110" data-name="Grupo 110">
+          <g id="Grupo_109" data-name="Grupo 109">
+            <g id="Grupo_108" data-name="Grupo 108" clip-path="url(#clip-path-8)">
+              <image id="Retângulo_59" data-name="Retângulo 59" width="8.16" height="8.16" transform="translate(81.12 13.312)" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAkAAAAJCAYAAADgkQYQAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAACWSURBVChTNVDRCgIxDGv3Zedv+wu++C6+iSCCCB4c3MFikm49srVpmo7Ly/ON77ZHAhEd0QLOs4fzBpzyfH/gtW4sSLop9BKppqiFI0NGQuXpWyGK4iEwwXw04I9C9rlFjZqcgmx+WdU8vK6mZgznCc43pFzGpFeXQ5Kf3HCq0D3fIkioyNvnt6z7YUUKakutXyEB4voHvUtm80Dt4+0AAAAASUVORK5CYII="/>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g id="Grupo_117" data-name="Grupo 117">
+      <g id="Grupo_116" data-name="Grupo 116" clip-path="url(#clip-path-9)">
+        <g id="Grupo_115" data-name="Grupo 115">
+          <g id="Grupo_114" data-name="Grupo 114">
+            <g id="Grupo_113" data-name="Grupo 113" clip-path="url(#clip-path-10)">
+              <image id="Retângulo_61" data-name="Retângulo 61" width="8.16" height="8.16" transform="translate(88.8 20.992)" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAkAAAAJCAYAAADgkQYQAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAB1SURBVChThY4xFoAgDENbvP+dPIQ3cHNxcpSYtDyqk+VBeOE31AHYXwW0bjuO87LWYX730EZdhjaRmeVxVnn42gPSovLIhm8FNFM8dYLjkkl4f1WgbOlIqk/8PVvYnpDseKIZ8zEi27KhIHQqN6cXIk8gzO0BD484N0OKan4AAAAASUVORK5CYII="/>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g id="Grupo_122" data-name="Grupo 122">
+      <g id="Grupo_121" data-name="Grupo 121" clip-path="url(#clip-path-11)">
+        <g id="Grupo_120" data-name="Grupo 120">
+          <g id="Grupo_119" data-name="Grupo 119">
+            <g id="Grupo_118" data-name="Grupo 118" clip-path="url(#clip-path-12)">
+              <image id="Retângulo_63" data-name="Retângulo 63" width="14.88" height="14.88" transform="translate(29.28 6.592)" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAFFSURBVDhPnVFBTsQwDEy6yx6QKpBA4hV8gDuv5QP7Ar4D2hVCiDTZGY+dpsAJV25sZ2bsJPnrdGytnlNrOclyarFaoHob6vRpf5eu56ecP99eWi3vVuxEA4HkospRzxQVbn/1kObb5zxpY9KmrXATiZq8olZB1kqMbDIAAiNRHYnycK+b6DamTRozNgYSV9TY9S8ynaYjOJnWgTamgDY6HXAeYSOgjvyCbPUhh9u9oJebHdNxLiC1eDZ1EMnIDjasT9InsL9dpIO9m0RG0dSPoSP2Iyjpq8Vrt4g3l+lPS9MljiJGiFwiRvYp40KJMQGB1IX2kxzdOPqCvSXWOgqQFO4kPhfBBc/5XXepVBARVxDo6wQcCQk7EFwQF6iTHG/+29ZaPp1fW1k+/Bjc4BSMx5xCyLHGnR0ON+l+fsy5xSP/y1K6AGsqCMO6bNTXAAAAAElFTkSuQmCC"/>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

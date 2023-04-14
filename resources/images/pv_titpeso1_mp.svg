@@ -1,0 +1,194 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="293.432" height="56.692" viewBox="0 0 293.432 56.692">
+  <defs>
+    <clipPath id="clip-path">
+      <path id="Caminho_105" data-name="Caminho 105" d="M556.28,205.854a6.449,6.449,0,0,0-6.45,6.449v21.9h28.345V212.3a6.448,6.448,0,0,0-6.448-6.449Z" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <rect id="Retângulo_107" data-name="Retângulo 107" width="28.345" height="28.346" transform="translate(549.83 205.854)" fill="none"/>
+    </clipPath>
+    <pattern id="pattern" preserveAspectRatio="none" width="100%" height="100%" viewBox="0 0 30 29">
+      <image width="30" height="29" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB4AAAAdCAYAAAC9pNwMAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAHbSURBVEhLnZXRecMgDIRN9h+jG3SVPuWlm9TlBCckIWycv1WCZaE7wJ9TzvM8vn/f53HU/4nzeJU+VLK6mWlamCfCX+8fydYLSZJScjOWkhjJcpFX/54os+UtdqcthRv3bc605n6eCOPDOrhe7frmvdzArRiCn27xU5pweKg8e06e+hVhWenGk7giP+dr/FbXlUtg3FIL/F3XRLnukM/B1quBYeS61TPaVkskWy0G+rhDA5jI+AQ3j0+1DWHr+Fm8x61hvKslMG6pB+RmkJVeHOw0Zp3uxodMWmysAjVS6vbHY2HsIMIicDERqRgCzj45f9uL9QjAbxEWTJOVAYtttjIQsS1FeGrScc61wIM0Y0ecjBVXtMliBcNErsC5Ei21pK24N7SMJplIMSZ6KkIDps7W+hWHm8S+wzOyxkrwzTo9Y+tg2Ujf32vSuRAPBkTv1bO4cFtQ0TcXG8n72/9w8FYE4q6nMSC52IDFOqFjDcSzRzrWW1zPOlVrKayBD47bUIF4W40XB05ggd63zXVce/K3GDDPawLxzABA81IduvPudGEIxHObRcmoGUA85iwQZwC34ib2V0fRxBwkXoOszgJxFeZ33Zj6V4XrhUTPgzGeVxevCfP+3nH8A0FgXxf66BGaAAAAAElFTkSuQmCC"/>
+    </pattern>
+    <clipPath id="clip-path-3">
+      <path id="Caminho_106" data-name="Caminho 106" d="M578.175,234.2v21.97a6.378,6.378,0,0,0,6.378,6.376h15.519a6.451,6.451,0,0,0,6.451-6.449V240.649a6.45,6.45,0,0,0-6.451-6.449Z" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-4">
+      <rect id="Retângulo_109" data-name="Retângulo 109" width="28.348" height="28.346" transform="translate(578.175 234.2)" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-5">
+      <path id="Retângulo_113" data-name="Retângulo 113" d="M3.223,0H10.95a3.223,3.223,0,0,1,3.223,3.223v7.725a3.226,3.226,0,0,1-3.226,3.226H3.226A3.226,3.226,0,0,1,0,10.948V3.223A3.223,3.223,0,0,1,3.223,0Z" transform="translate(800.743 220.026)" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-6">
+      <rect id="Retângulo_112" data-name="Retângulo 112" width="14.173" height="14.174" transform="translate(800.743 220.026)" fill="none"/>
+    </clipPath>
+    <pattern id="pattern-2" preserveAspectRatio="none" width="100%" height="100%" viewBox="0 0 16 15">
+      <image width="16" height="15" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAPCAYAAADtc08vAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAB+SURBVDhPpZIBCsAgCEV1N989dsGxQ7iSsLJP/LEHsRB9/GRqZvIHF9zPFRZt346JtqKWe+I82iWoLbmthvQD9C5YvAVUQ0QCZgCta3nCCEyWipOAjT2yLpGwjD3bJzBAwZcULkADrCQSMAOI7Q4Y6SSgYqffeZuggqS9JPICvJ0z4y5wCWQAAAAASUVORK5CYII="/>
+    </pattern>
+    <clipPath id="clip-path-7">
+      <path id="Caminho_108" data-name="Caminho 108" d="M761.665,212.153a5.016,5.016,0,0,0-5.017,5.016v12.015a5.017,5.017,0,0,0,5.017,5.016H778.7V217.169a5.015,5.015,0,0,0-5.015-5.016Z" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-8">
+      <rect id="Retângulo_115" data-name="Retângulo 115" width="22.047" height="22.047" transform="translate(756.648 212.153)" fill="none"/>
+    </clipPath>
+    <pattern id="pattern-3" preserveAspectRatio="none" width="100%" height="100%" viewBox="0 0 24 23">
+      <image width="24" height="23" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAXCAYAAAARIY8tAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAFUSURBVEhLrVZLbsIwEI0tkWWlFrVVD1OJJcfppeAEHABu0G0XXbCABYeIGdtjZz52nNA+KYw94/F7MzYEc74dXAewXTAZxog5xo2BD8dj4ECLcUC/Wp9enj435ve6w6iDTShgzh1BhElOJIlTTujF9P376fV5u7HoA4jdKnCwcXj8OMy91+eO+VQqISjo4I5uqIjw69KTkMaMYA4kidCgRFm1AG2CTJgDmhMqaO0hSVpVeAxoiy16QHQVmSBuSm8CxyNVeCw+ZAolAi0FI9AJQqVYIOOl75IdVBKHmi9cDxVo1r+CkoQW/XcVFPkMJEkLzVaho3CLYstUAtqlYAStKmoqE0rphQpGzFE9uOlLon7s9IHzDVqkMh4qmKN0ClO3sNgi1VvRhmlBfC0SpFf6iKUktQtifi77YxzybnvK/NLHZP1PIyH6bXbAS3/19v2x3n7dATshj72T4rslAAAAAElFTkSuQmCC"/>
+    </pattern>
+    <clipPath id="clip-path-9">
+      <path id="Caminho_109" data-name="Caminho 109" d="M778.7,233.939V250.97a5.017,5.017,0,0,0,5.017,5.016h12.014a5.016,5.016,0,0,0,5.017-5.016V238.955a5.017,5.017,0,0,0-5.017-5.016Z" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-10">
+      <rect id="Retângulo_117" data-name="Retângulo 117" width="22.048" height="22.047" transform="translate(778.695 233.939)" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-11">
+      <path id="Caminho_110" data-name="Caminho 110" d="M625.219,205.854a6.45,6.45,0,0,0-6.45,6.449v15.448a6.45,6.45,0,0,0,6.45,6.449h21.9V212.3a6.449,6.449,0,0,0-6.449-6.449Z" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-12">
+      <rect id="Retângulo_119" data-name="Retângulo 119" width="28.346" height="28.346" transform="translate(618.769 205.854)" fill="none"/>
+    </clipPath>
+    <pattern id="pattern-4" preserveAspectRatio="none" width="100%" height="100%" viewBox="0 0 30 29">
+      <image width="30" height="29" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB4AAAAdCAYAAAC9pNwMAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAGTSURBVEhLtZZLbsMwDESlbFKgQND7nyIX6LrLHqCrXiSKKYogPaRpuU7fIrJ+HA2pxKmttfL5+91qLQ47VEsbT0Iz8zwnMexaDEv92/W9dOH7z9ci7AMTl/6pRGJeyPRpYNEQLkv/4+2mcVvTkAz2GSexDHjvitHsPEZ/ZQgXEY/RHiM+tEA6mMkpcVyCe9z8aC0grOlj9OS74uByPe+vpnN8DFPbyFZCF472zKQckYvDRF9AJXXM4tsXJThbwihjf6wqrEGgVhA9r3UF19uHWzneWoTsrVNx49JAZlyqo6D+x8XiaznDEIb0Qp+wKadHFMN+nHKNm14uJLrpHg2e1XtT2GsEWRitzMXn8vuIxDHXDoOJaxl386MVvGs+yKFUC/spX7uM1k8J6744bRjX9/2+accu2DJgx/KXBK+3TAvHXjP8Div+pxoL6MK5HC2BGTklTKxvbf5GIuSwU8LH05xD2qcd079GRF3yJLomdoVf5ZbEbZ1PO94icmn5N+EIe5hU+NWXymKEI5nZsXn4r1MpTxvBl+Xymxb1AAAAAElFTkSuQmCC"/>
+    </pattern>
+    <clipPath id="clip-path-13">
+      <path id="Caminho_111" data-name="Caminho 111" d="M694.159,205.854a6.449,6.449,0,0,0-6.45,6.449v15.448a6.449,6.449,0,0,0,6.45,6.449h21.9V212.3a6.448,6.448,0,0,0-6.448-6.449Z" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-14">
+      <rect id="Retângulo_121" data-name="Retângulo 121" width="28.345" height="28.346" transform="translate(687.709 205.854)" fill="none"/>
+    </clipPath>
+    <pattern id="pattern-5" preserveAspectRatio="none" width="100%" height="100%" viewBox="0 0 30 29">
+      <image width="30" height="29" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB4AAAAdCAYAAAC9pNwMAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAGlSURBVEhLpZQ9UsQwDIXjnIKCA9BxCXrOTE1ByQkoOMAWzDAx61iKrCfZcsI3w3gdS08/Fk6f3+/55/e2tKy0Mill+sXIvtrKPtHKeL5PDy8pfXy9UWB07u/X/UN7rsWjxJ8fXxPauGi3ZdnwwwX2wCh0VjdDgzdamewIHhVvWTujGPqiGJ7r4PfLAIOpVlf0TWJiM7TBVWBTBZYBnKtas0bBInHB70Dvvk+0WmiDX01sD8zGfG+HWIJ9p6oouNfyo2I0NmJoEBAFv9TqQhFuJ7sm5nfEQ0/1/odiQtTS6HxrtE3FRgyqyPDQRGAy3PIVA52l9+8SUacaqjBitDJaPIG9fR69ZGSqh2I2ONKtnGoS/fphONUiVo0luK1qhtZHT/VJMbTvVu3QBKaqIjFaNXpGWlCP94NWi9gouJ8oJOLktQfGKvwWobfswy45ekfFUXAUizB6tDLQaqcnHWyi874F9XJZMfpBmHNamda+PLUj+3tgnak2dl4hWmfpBR9MtQWTLBjhycz8qaaV+U/LC3hecCquVYkx7T1v0wG8Ntlr92X5A+4T1IxRMNsxAAAAAElFTkSuQmCC"/>
+    </pattern>
+    <clipPath id="clip-path-15">
+      <path id="Caminho_112" data-name="Caminho 112" d="M716.054,233.939v14.435h0V256.1a6.45,6.45,0,0,0,6.451,6.449h15.445a6.678,6.678,0,0,0,6.451-6.71V240.389a6.451,6.451,0,0,0-6.451-6.45Z" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-16">
+      <rect id="Retângulo_123" data-name="Retângulo 123" width="28.348" height="28.607" transform="translate(716.054 233.939)" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-17">
+      <path id="Caminho_113" data-name="Caminho 113" d="M647.115,234.2v22.051a6.3,6.3,0,0,0,6.3,6.295h15.6a6.451,6.451,0,0,0,6.451-6.449V240.649a6.45,6.45,0,0,0-6.451-6.449Z" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-18">
+      <rect id="Retângulo_125" data-name="Retângulo 125" width="28.348" height="28.346" transform="translate(647.115 234.2)" fill="none"/>
+    </clipPath>
+    <pattern id="pattern-6" preserveAspectRatio="none" width="100%" height="100%" viewBox="0 0 29 30">
+      <image width="29" height="30" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB0AAAAeCAYAAADQBxWhAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAE6SURBVEhLxZZNEoMgDIXBTbvpeP97dN/ptlfoqhcpBQEJgSQgWr8Zf8CYlzxhRv34vIwC6PXqp7WbABHLGExMyzmN43t1jJovN6Xv7yeIMiGpAybyR8Tf++e4CB8LhW3OcOeYr3MoFGDWeBhKk+I9aGgp8xSiNVyivPYcLPwN1wiObxKVkV1JwrpdtOgOCeXd6qJbyE6d1qFsHhItuscTK7krw50mHZ9YWlSOA+2lFxcS5Vch6R6i3m3KLXTKF8HB2XygvTQT3m8crfZSuPfdMdgpLpgfxwYPtZfatxXRdrsjvbZXO80rxBaNc87qDde/soj2bJsS/K6ci+iUTtT/TcsiNtnbI1zbNucuJP73Q4L/28UwndLfVYaP3Wxv34LKi7CiaaJ161CC5Dx6IHTaY2k72vStmB1Q6gfcGFIfV47qUwAAAABJRU5ErkJggg=="/>
+    </pattern>
+    <clipPath id="clip-path-19">
+      <path id="Caminho_114" data-name="Caminho 114" d="M528,234.2a6.511,6.511,0,0,0-6.512,6.512v15.5a6.334,6.334,0,0,0,6.334,6.333h15.561a6.45,6.45,0,0,0,6.451-6.449V234.2Z" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-20">
+      <rect id="Retângulo_127" data-name="Retângulo 127" width="28.346" height="28.346" transform="translate(521.484 234.2)" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="pv_titpeso1_mp" transform="translate(-1576.984 1768.514)">
+    <g id="Grupo_208" data-name="Grupo 208" transform="translate(1055.5 -1974.368)">
+      <g id="Grupo_207" data-name="Grupo 207" clip-path="url(#clip-path)">
+        <g id="Grupo_206" data-name="Grupo 206">
+          <g id="Grupo_205" data-name="Grupo 205">
+            <g id="Grupo_204" data-name="Grupo 204" clip-path="url(#clip-path-2)">
+              <rect id="Retângulo_106" data-name="Retângulo 106" width="28.8" height="28.8" transform="translate(549.6 205.441)" fill="url(#pattern)"/>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g id="Grupo_213" data-name="Grupo 213" transform="translate(1055.5 -1974.368)">
+      <g id="Grupo_212" data-name="Grupo 212" clip-path="url(#clip-path-3)">
+        <g id="Grupo_211" data-name="Grupo 211">
+          <g id="Grupo_210" data-name="Grupo 210">
+            <g id="Grupo_209" data-name="Grupo 209" clip-path="url(#clip-path-4)">
+              <image id="Retângulo_108" data-name="Retângulo 108" width="28.8" height="28.8" transform="translate(577.92 233.761)" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB4AAAAeCAYAAAA7MK6iAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAALHSURBVEhLvZVLjhRBDES7qu9/ItZcgR0bFlwAITFCovALO/LX2T3Dhhi5/Lcjs6o1x3Vdt8/fv14/f7/dHnGVTqQ3xxK72IyjtKHFn759uX68/dq0Px84Zx7rjm1vj52lBVitzJ7hX2p3qMXzCA/9yHDyDFnlPajmiBs4thsyaAKWj+C9+oHcoeWWV1hPdW3H9xjWKr2f9z58DyZwUvUEJjCSeI0+TD1aUs65+RhZ/ooAIC15p85oZMfBLDeB8RpN4OXw6PNtWXbQYm9fC0Wg7BWUWRJD43JrIwnP11x+7CnYc4FOgJS7g/smsPzadeVHXAeKpcPwpsOYCISytKIBU96AwAZ14vopYa8L0ORwdAqFMu/4BsqnuV2eixkgt9urAC+ybzj+mCHCX2gONBDQ4jP+UfC13hkQ/k4otA1G22jE1sSAvNFjOHEsR864F/1kiEv6D6rHUoD6yk6k95JELM/FsHCh/FwuCf/ZaSU8irRjK44oWgkMJ84m2fJrWPkTAR6y86W5BgLy9XyE6xAtBgqgBwJgJSQCFRtfCcgZkRxO79wKLb4jUaETqTlFgzFYtCGgd0UwoFya9YoiWcics4l+YgZH7h6GPrASyk0AGwHNr+VbAsywE9BtpZlaX25MyPcafg2ix83uR6sGTRwpf0sgZj4lQEzvLQwPitpOoJrb71w6bwPgq54++XzFmVU9BocKo8J9MQH/O9T7pqgNqhoIlE2jYhbiCATCBw8EhnlafOcqEBqRiGlwFWiYczr9n16zSjx0G5wwfDARYFaIFoNk2hsQvnYTcBxyZ1i+6lazSjxcgwARKFuL8xQhofUetaSEWGhdP3XkqNGf7RxkAtagzZEdEg/XNEfCcBbJHnLDdZvgGc5UE6KBpTVDHjqXyw4jF3OKSJhp+5JDjwScz0VVr9rKKd7rQOuRF3tiLgidxv/F7fYXTPPAWTyIlK4AAAAASUVORK5CYII="/>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g id="Grupo_220" data-name="Grupo 220" transform="translate(1055.5 -1974.368)">
+      <g id="Grupo_219" data-name="Grupo 219" clip-path="url(#clip-path-5)">
+        <g id="Grupo_218" data-name="Grupo 218">
+          <g id="Grupo_217" data-name="Grupo 217">
+            <g id="Grupo_216" data-name="Grupo 216" clip-path="url(#clip-path-6)">
+              <rect id="Retângulo_111" data-name="Retângulo 111" width="14.4" height="14.4" transform="translate(800.64 219.841)" fill="url(#pattern-2)"/>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g id="Grupo_225" data-name="Grupo 225" transform="translate(1055.5 -1974.368)">
+      <g id="Grupo_224" data-name="Grupo 224" clip-path="url(#clip-path-7)">
+        <g id="Grupo_223" data-name="Grupo 223">
+          <g id="Grupo_222" data-name="Grupo 222">
+            <g id="Grupo_221" data-name="Grupo 221" clip-path="url(#clip-path-8)">
+              <rect id="Retângulo_114" data-name="Retângulo 114" width="22.56" height="22.56" transform="translate(756.48 211.681)" fill="url(#pattern-3)"/>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g id="Grupo_230" data-name="Grupo 230" transform="translate(1055.5 -1974.368)">
+      <g id="Grupo_229" data-name="Grupo 229" clip-path="url(#clip-path-9)">
+        <g id="Grupo_228" data-name="Grupo 228">
+          <g id="Grupo_227" data-name="Grupo 227">
+            <g id="Grupo_226" data-name="Grupo 226" clip-path="url(#clip-path-10)">
+              <image id="Retângulo_116" data-name="Retângulo 116" width="22.56" height="22.56" transform="translate(778.56 233.761)" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAEZSURBVEhLtZbNDcIwDIUTRBfgwv5swQ02YAUkDhyYgSA7Tlv/xWklvgNpGjvvOW5VciklPd+XkhNQ8BeQcyBnMQ/Wp+l8P9C1CNVzC5VjJM0CgAwY2UAiY5iARSQSaSoBvkHtRETPBBfI1NrApVy3aDEoMJJQ8SvytnB7MFYFFyyGgVlgqGwaG/AORbAKlOswXzuWKe4RNZQojY3IhBIITRv0TJgVRC63mECBL156+I/mGssE3DMqqBtKl/uqyIuAVcVWEbkOsAr6RzWGFDGbvEa7lG9vHxJYkvZU0TsqswKVQGPDOmsPFNiSoJFPHc3phtsD5ZrGxogpCMF/Fa/P9QZT3r5K/QYtu1VHvjx9s5DpeHqgwP9I6QdKw4FNnIMXpgAAAABJRU5ErkJggg=="/>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g id="Grupo_235" data-name="Grupo 235" transform="translate(1055.5 -1974.368)">
+      <g id="Grupo_234" data-name="Grupo 234" clip-path="url(#clip-path-11)">
+        <g id="Grupo_233" data-name="Grupo 233">
+          <g id="Grupo_232" data-name="Grupo 232">
+            <g id="Grupo_231" data-name="Grupo 231" clip-path="url(#clip-path-12)">
+              <rect id="Retângulo_118" data-name="Retângulo 118" width="28.8" height="28.8" transform="translate(618.72 205.441)" fill="url(#pattern-4)"/>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g id="Grupo_240" data-name="Grupo 240" transform="translate(1055.5 -1974.368)">
+      <g id="Grupo_239" data-name="Grupo 239" clip-path="url(#clip-path-13)">
+        <g id="Grupo_238" data-name="Grupo 238">
+          <g id="Grupo_237" data-name="Grupo 237">
+            <g id="Grupo_236" data-name="Grupo 236" clip-path="url(#clip-path-14)">
+              <rect id="Retângulo_120" data-name="Retângulo 120" width="28.8" height="28.8" transform="translate(687.36 205.441)" fill="url(#pattern-5)"/>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g id="Grupo_245" data-name="Grupo 245" transform="translate(1055.5 -1974.368)">
+      <g id="Grupo_244" data-name="Grupo 244" clip-path="url(#clip-path-15)">
+        <g id="Grupo_243" data-name="Grupo 243">
+          <g id="Grupo_242" data-name="Grupo 242">
+            <g id="Grupo_241" data-name="Grupo 241" clip-path="url(#clip-path-16)">
+              <image id="Retângulo_122" data-name="Retângulo 122" width="28.8" height="28.8" transform="translate(715.68 233.761)" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB4AAAAeCAYAAAA7MK6iAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAGoSURBVEhLvZfdbcMwDITt7D9Tt+gMWaBAHwpYCSlRIo8U6bz0AxpX0emoo5y/s7V2fD+/2u/fz3EeRONH4XHqcRsaIRiPJ85C+xhXxpbsXOZJsrNEa4RMy4W1eWYkLI3NRLwb2K9jDv1kbBILKLapPc680BNBYZ+CwOKuGD/GayPtLBwbEbFZhU9tfdKbC8c99TKo9BqcC89YExdfZMWuZlNqrSucGQm2jXtzYndjcmGcy1/6Hrs+0673gbLVgtscPKGHqI2OZxbOjJCqA0S2nkgT42I3vrXZvklMvRLTn5mMU2XmCGp1cZd4n2KZa0msj7UaLuwWh2aWS5vf0Avy2k7PWJOZEVhcg1OktWfc/2W6kT07NLBkWv85bhLjpE9hza9xFT5pednq3Ox0xTP0Wlf4jlGWZG20dyfS0hsQF8bJqoXIJ3qZKls9dw5m8WbtPSBE+5iF0Xjf8tgc8anXOpoaheNUVQvRe79Zr73RaotPsqfhNxC11hWuUhNa4780WHYbDRP74niu+yS0kU0tRrRcODsbAc1wc7tkxJyTH1Zv+Efb/3McL7dY0+eJp6uOAAAAAElFTkSuQmCC"/>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g id="Grupo_250" data-name="Grupo 250" transform="translate(1055.5 -1974.368)">
+      <g id="Grupo_249" data-name="Grupo 249" clip-path="url(#clip-path-17)">
+        <g id="Grupo_248" data-name="Grupo 248">
+          <g id="Grupo_247" data-name="Grupo 247">
+            <g id="Grupo_246" data-name="Grupo 246" clip-path="url(#clip-path-18)">
+              <rect id="Retângulo_124" data-name="Retângulo 124" width="28.8" height="28.8" transform="translate(647.04 233.761)" fill="url(#pattern-6)"/>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g id="Grupo_255" data-name="Grupo 255" transform="translate(1055.5 -1974.368)">
+      <g id="Grupo_254" data-name="Grupo 254" clip-path="url(#clip-path-19)">
+        <g id="Grupo_253" data-name="Grupo 253">
+          <g id="Grupo_252" data-name="Grupo 252">
+            <g id="Grupo_251" data-name="Grupo 251" clip-path="url(#clip-path-20)">
+              <image id="Retângulo_126" data-name="Retângulo 126" width="28.8" height="28.8" transform="translate(521.28 233.761)" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB4AAAAeCAYAAAA7MK6iAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAMqSURBVEhLvVa90hNBDMsdDT8zDB0NQ0dPydvTUlEyVDxKgiRLXu/lo0Uzuuzasuzb7Bc4fvz59bhNHPVx5/Lh1OEgwHgD4UgE6HYz5pcHV+9fv719/fj5OL7//pmMno+UutdmTMBgNudM96F5rBmrdu7BD2/e3b59+nKctSVpd5dOdFhrPJoInnBEoUhzak48SJ4SyVzpTa8ZJ6hdSRGFGmTEaF4hIQNwstPshshpAMcyIOXy4gPYGk9kADVxMuYicmo4dKUxse4BpF0DEGdenaA4jJDHyvM84JYh1MQG0UvjAUTGPUDReRdiaExDIjApgZvWAItEm2t9rDUHYJ3iq9kksY4a+0wYrOld5GQPwTV4PO41MPIyVAz64cfPrAno1hQCxZMIdQHNNIBJ8WiQt80AGuLiw0GJfJZhCEXIwm4YuoHqouVaEXw6z30PwTVzFAAaKkxS37mMUay3W5qQmA06FuIxh0xe9wbArcaCG7B/3ox5oTJUUOa4VCQDNi9WM8UQ2IZgP0BefRwRTLpQ+ssQJy4VL5YuF+shKBZYNt+4Biic+uJDBJJowJTsC0VqIBQAqZkNiB6OZND54OyjIGlItgl5MVace8dDPOJRvwMjB+0rfNaJFqCpNyr6LSiwaCNjJIzzBpXz2iRqaFOnUzndKaCOWkJzGIhUBdiHu545CgpP9bOHdTp+NTengXAxWeQe5Cax+GTPxKU28AVMR5u92Ai0saSBdCZE+YqkoT45XlBSCb1xbbbCNqi4jneAxjWE68LcFa4hqL8A60Edr5E/uQIbTBplwAHNmMJIXpRariYcyJwNaIky4flyTbbBigl0CIF1QotpyF/DOQQHJurtYxK+BIbBp0GhD4leg9d/5/VVGBgCASz+ZSY+5U3VLuonNHsIt1Pgw2ui/pxM6F+GBoDpNCYzgIbY+XSC1mSPE1jJTDiPh5eAXG8wGifGIlqEAENN+PfJ8QH0peMxiTIduBhuyNA0RVETqevXJEQP4GVK4P0ywvKJSO1HS52ZrwJcZkD8hieho+Zr66pP04i7iGaDiG2hgW0gmK2TcA011/91/B/cbn8BaJ5UBp0zVqMAAAAASUVORK5CYII="/>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

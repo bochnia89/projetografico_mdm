@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="27.007" height="27.007" viewBox="0 0 27.007 27.007">
+  <defs>
+    <clipPath id="clip-path">
+      <path id="Caminho_23" data-name="Caminho 23" d="M9.859,5A4.86,4.86,0,0,0,5,9.858v12.15H17.148a4.86,4.86,0,0,0,4.859-4.86V9.858A4.86,4.86,0,0,0,17.148,5Z" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <rect id="Retângulo_18" data-name="Retângulo 18" width="17.007" height="17.009" transform="translate(5 4.999)" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-3">
+      <rect id="Retângulo_20" data-name="Retângulo 20" width="27.007" height="27.007" transform="translate(0 0)" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="Ico_desafio" transform="translate(0 0)">
+    <g id="Grupo_31" data-name="Grupo 31">
+      <g id="Grupo_30" data-name="Grupo 30" clip-path="url(#clip-path)">
+        <g id="Grupo_29" data-name="Grupo 29">
+          <g id="Grupo_28" data-name="Grupo 28">
+            <g id="Grupo_27" data-name="Grupo 27" clip-path="url(#clip-path-2)">
+              <image id="Retângulo_17" data-name="Retângulo 17" width="17.28" height="17.28" transform="translate(4.8 4.927)" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABMAAAATCAYAAAByUDbMAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAJySURBVDhPrZRLltMwEEVLjh3HCQ1bY0mwGAbMYAdshE1052NHlor7SnEH5jjnnZJi6epVSVZyd/tfT8B+/vjue8s2psVGm+1gV+INEdOF/sX2qPc36+1su3S1rp6ZPFvHOLPFzNevnYjZB1sZtvrOClFy24WM4U2snFKLXi3xNlmlJyk7b6MEa8A9GqwmtQfzJOAG7gLWeAIB/Qv0hAG5k+gm9QvAIiBDPDWQnpQARfNfV++w2XsAQwPJIbEIiOQy4SzhsqXWHD1dPaEBW5g8y5Uc2oTGADkgD3eqnVLsrJOzgOjZXLUnYDdn7/zAnowBXFzACbcT6Y5A95a6HhBApkSaQOk8H9rNGYAZXf2Iw4l+U+ZQFBYwQC1VAR8z39VcSw9nQ6R5lUNrwJuf7J6OltEK1NhV1c1CfZNApN6Auw3WhzMBz6R7sQ/8h+qJlAUb2YiJtQcmoy2S/nt7gy00bhzYmdVnXF4CeAp3SncmzkBVx0K0bgKAW+oZEhA1GDt7987minB5rQOgCeAx4kzU5ixAM64zsQCulMCBSnIZsDsbs1RnoL4GI63ERKl/aKCefLG4ktuM64IqtaxAXaIMAdPkjNYAGakQa4m+HAu21AOuD/QlNgbYimPVsur4UPMGY1Ll9ggYsfCrvK6+0sch6S/UJO6UB5A7JlItlKGSZkEB08cQQNy1Q11pF+Es8zIz7P5INw41ygB1ZGKnOVKVGDClFQz+2n7cTyyAQ066Fsqkm9nxOw4zR0jOFHWoJdUvLsfP335/GZmkcp4Spd2t9pGL8iOX4KfuZi/d2V7SG3olsbMd/bVdmqj3C/iZw3X79QeFE4Q5zlx/XgAAAABJRU5ErkJggg=="/>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g id="Grupo_33" data-name="Grupo 33">
+      <g id="Grupo_32" data-name="Grupo 32" clip-path="url(#clip-path-3)">
+        <path id="Caminho_24" data-name="Caminho 24" d="M16.468,21.082H8.134V10.476a1.905,1.905,0,0,1,1.9-2.107h.278v.857h-.278c-.971,0-1.047.957-1.047,1.25v9.749h7.477a3.447,3.447,0,0,0,3.524-3.355h.857a4.3,4.3,0,0,1-4.381,4.212" fill="#06141a"/>
+        <path id="Caminho_25" data-name="Caminho 25" d="M20.849,14.936h-.857V10.773a3.528,3.528,0,0,0-3.524-3.524H10.539a3.527,3.527,0,0,0-3.523,3.524H6.159a4.385,4.385,0,0,1,4.38-4.381h5.929a4.386,4.386,0,0,1,4.381,4.381Z" fill="#06141a"/>
+        <rect id="Retângulo_19" data-name="Retângulo 19" width="0.857" height="8.271" transform="translate(6.159 12.727)" fill="#06141a"/>
+        <path id="Caminho_26" data-name="Caminho 26" d="M13.637,16.43a3.278,3.278,0,0,1,2.212-2.212.138.138,0,0,0,0-.267,3.278,3.278,0,0,1-2.212-2.212.138.138,0,0,0-.267,0,3.278,3.278,0,0,1-2.212,2.212.138.138,0,0,0,0,.267A3.278,3.278,0,0,1,13.37,16.43a.138.138,0,0,0,.267,0" fill="#06141a"/>
+        <path id="Caminho_27" data-name="Caminho 27" d="M16.2,19.572h-6.01v-.857H16.2a1.889,1.889,0,0,0,1.932-1.838V11.241a2.173,2.173,0,0,0-2.221-2.116H12.2V8.268h3.716a3.03,3.03,0,0,1,3.078,2.973v5.636A2.746,2.746,0,0,1,16.2,19.572" fill="#06141a"/>
+        <path id="Caminho_28" data-name="Caminho 28" d="M15.4,17.8h-.914v-.857H15.4a.9.9,0,0,0,.9-.9V12.285a.9.9,0,0,0-.9-.9H11.643a.9.9,0,0,0-.9.9v3.762a.9.9,0,0,0,.9.9h.894V17.8h-.894a1.757,1.757,0,0,1-1.755-1.755V12.285a1.757,1.757,0,0,1,1.755-1.755H15.4a1.756,1.756,0,0,1,1.754,1.755v3.762A1.756,1.756,0,0,1,15.4,17.8" fill="#06141a"/>
+      </g>
+    </g>
+  </g>
+</svg>

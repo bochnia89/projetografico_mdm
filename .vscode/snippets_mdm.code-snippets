@@ -1,0 +1,385 @@
+{
+	// Place your manual_g24 workspace snippets here. Each snippet is defined under a snippet name and has a scope, prefix, body and 
+	// description. Add comma separated ids of the languages where the snippet is applicable in the scope field. If scope 
+	// is left empty or omitted, the snippet gets applied to all languages. The prefix is what is 
+	// used to trigger the snippet and the body will be expanded and inserted. Possible variables are: 
+	// $1, $2 for tab stops, $0 for the final cursor position, and ${1:label}, ${2:another} for placeholders. 
+	// Placeholders with the same ids are connected.
+	// Example:
+	// "Print to console": {
+	// 	"scope": "javascript,typescript",
+	// 	"prefix": "log",
+	// 	"body": [
+	// 		"console.log('$1');",
+	// 		"$2"
+	// 	],
+	// 	"description": "Log output to console"
+	// }
+
+	"Página LT + MPU": {
+	"prefix": "pageSecMPU",
+	"body": [
+		"<!-- Páginas 000 e 000-->",
+		"<!-- ******************** PÁGINA 000 ***************************-->",
+		"<section class=\"pag000\" aria-label=\"Página\">",
+			"<header>",
+				"<p class=\"pag\" role=\"doc-pagebreak\">Página 00</p>",
+			"</header>",
+			"<!--Livro texto aluno -->",
+			"<div class=\"box_aluno\" role=\"region\" aria-label=\"Conteúdo da página\">",
+			"$1",
+			"</div>",
+			"<!--Livro texto aluno -->",
+			"",
+			"<!--Manual do professor-->",
+			"<aside class=\"box_professor_mp\" aria-labelledby=\"orientanav0\">",
+				"<h2 class=\"orienta\" id=\"orientanav0\"><span>ORIENTAÇÕES AO PROFESSOR</span></h2>",
+				"<p class=\"orientaTx\">Não há orientações específica para esta página.</p>",
+			"</aside>",
+			"<!--Manual do professor-->",
+		"</section>",
+		"",
+		"",
+		"<!-- ******************** PÁGINA 000 ***************************-->",
+		"<section class=\"pag000\" aria-label=\"Página\">",
+			"<header>",
+				"<p class=\"pag\" role=\"doc-pagebreak\">Página 00</p>",
+			"</header>",
+			"<!--Livro texto aluno -->",
+			"<div class=\"box_aluno\" role=\"region\" aria-label=\"Conteúdo da página\">",
+			"$1",
+			"</div>",
+			"<!--Livro texto aluno -->",
+			"",
+			"<!--Manual do professor-->",
+			"<aside class=\"box_professor_mp\" aria-labelledby=\"orientanav0\">",
+				"<h2 class=\"orienta\" id=\"orientanav0\"><span>ORIENTAÇÕES AO PROFESSOR</span></h2>",
+				"<p class=\"orientaTx\">Não há orientações específica para esta página.</p>",
+			"</aside>",
+			"<!--Manual do professor-->",
+		"</section>",
+	 	],
+	 	"description": "Modelo de página LT + MPU, duas páginas"
+	 },
+
+	 "Página MPG": {
+		"prefix": "pageSecMPG",
+		"body": [
+			"<!-- Páginas 000 e 000 MP-->",
+			"<!-- ******************** PÁGINA 000 MP ***************************-->",
+			"<section class=\"pag000mp\" aria-label=\"Página\">",
+				"<header>",
+					"<p class=\"pag\" role=\"doc-pagebreak\" aria-label=\"Página 0\">Página 00 </p>",
+				"</header>",
+				"<!--Manual do professor-->",
+				"<div class=\"box_geral_mp\" role=\"region\" aria-label=\"Conteúdo da página\">",
+				" ",	
+				" ",
+				"</div>",
+				"<!--Manual do professor-->",
+			"</section>",
+			" ",	
+			" ",	
+			"<!-- ******************** PÁGINA 000 MP ***************************-->",
+			"<section class=\"pag000mp\" aria-label=\"Página\">",
+				"<header>",
+					"<p class=\"pag\" role=\"doc-pagebreak\" aria-label=\"Página 0\">Página 00 </p>",
+				"</header>",
+				"<!--Manual do professor-->",
+				"<div class=\"box_geral_mp\" role=\"region\" aria-label=\"Conteúdo da página\">",
+				" ",	
+				" ",	
+				"</div>",
+				"<!--Manual do professor-->",
+			"</section>"
+			 ],
+			 "description": "Modelo de página MPG, duas páginas"
+		 },
+
+		 "Box Complementar LE": {
+			"prefix": "boxComplementarLE",
+			"body": [
+				"<div class=\"boxComplementar\">",
+            "<p class=\"titBox\">Boxe complementar</p>",
+            "<div class=\"box\">",
+              "<p class=\"texto\">",
+                "$1",
+              "</p>",
+            "</div>",
+          "</div>"
+			],
+			"description": "Modelo de box complementar"
+		},
+
+		"Box Complementar Negativo LE": {
+			"prefix": "boxComplementarNegaLE",
+			"body": [
+				"<div class=\"boxComplementarNega\">",
+            "<p class=\"titBox\">Boxe complementar</p>",
+            "<div class=\"box\">",
+              "<p class=\"texto\">",
+                "$1",
+              "</p>",
+            "</div>",
+          "</div>"
+			],
+			"description": "Modelo de box complementar negativo"
+		},
+
+
+		"Box Quadro Teoria LE": {
+			"prefix": "boxQuadroTeoriaLE",
+			"body": [
+				"<div class=\"boxQuadroTeoria\">",            
+            "<div class=\"box\">",
+              "<p class=\"texto\">",
+                "$1",
+              "</p>",
+            "</div>",
+          "</div>"
+			],
+			"description": "Modelo de box quadro teoria"
+		},
+
+
+		"Box Instrumentos e Softwares LE": {
+			"prefix": "boxInstrumentoseSoftwaresLE",
+			"body": [
+				"<div class=\"boxInstrumentosSoft\">",
+				"<p class=\"secVamosMenor\">",
+				  "Instrumentos e <span lang=\"en\"><strong><em>softwares</em></strong></span>",
+				"</p>",
+				"<div class=\"box\">",
+				 "",
+				"</div>",
+			  "</div>"
+			],
+			"description": "Modelo de Box Instrumentos e Softwares LE"
+		},
+
+
+
+		"Box Socioemocionais LE": {
+			"prefix": "boxSocioemocionaisLE",
+			"body": [
+				"<div class=\"boxSocioemocionais\">",
+            	"<p class=\"cuidadoDica\">",
+              "$1",
+            "</p>",
+          "</div>"
+			],
+			"description": "Modelo de box Socioemocionais "
+		},
+
+		"Box Atenção LE": {
+			"prefix": "boxAtencaoLE",
+			"body": [
+			"<div class=\"boxAtencao\">",
+            "<p class=\"secCuidadoDica\">Atenção!</p>",
+            "<div class=\"box\">",
+              "<p class=\"cuidadoDica\">$1</p>",
+              "<ul class=\"li_cuidadoDicaItem\">",
+                "<li>$2</li>",
+                "<li>$3</li>",                
+              "</ul>",
+            "</div>",
+          "</div>"
+			],
+			"description": "Modelo de Box Atenção LE "
+		},
+
+
+		"Box Socioemocionais Negativo LE": {
+			"prefix": "boxSocioemocionaisNegaLE",
+			"body": [
+				"<div class=\"boxSocioemocionaisNega\">",
+            	"<p class=\"cuidadoDica\">",
+              "$1",
+            "</p>",
+          "</div>"
+			],
+			"description": "Modelo de box Socioemocionais Negativo"
+		},
+
+		"Box Dica LE": {
+			"prefix": "boxDicaLE",
+			"body": [
+				"<div class=\"boxDica\">",
+            "<p class=\"secCuidadoDica\">Dica!</p>",
+            "<p class=\"cuidadoDica\">",
+              "$1",
+            "</p>",
+            "<ul class=\"li_cuidadoDicaItem\">",
+              "<li>$2</li>",
+			  "<li>$3</li>",
+            "</ul>",
+          "</div>"
+			],
+			"description": "Modelo de box dica "
+		},
+
+		"Box Cuidado LE": {
+			"prefix": "boxCuidadoLE",
+			"body": [
+			"<div class=\"boxCuidado\">",
+            "<p class=\"secCuidadoDica\">Cuidado!</p>",
+            "<p class=\"cuidadoDica\">",
+              "$1",
+            "</p>",
+            "<ul class=\"li_cuidadoDicaItem\">",
+              "<li>$2</li>",
+              "<li>$3</li>",
+            "</ul>",
+          "</div>",
+			],
+			"description": "Modelo de box cuidado "
+		},
+
+		
+		"Box Materiais LE": {
+			"prefix": "boxMateriaisLE",
+			"body": [
+				"<div class=\"boxMateriais\">",
+				"<p class=\"titMateriais\">Materiais</p>",
+				"<div class=\"box\">",
+				  "<ul class=\"li_livreItem\">",
+					"<li>$1</li>",
+					"<li>$2</li>",
+				  "</ul>",
+				"</div>",
+			  "</div>"
+	
+			],
+			"description": "Modelo de box Materiais "
+		},
+
+		"Gravata Mapa LE": {
+			"prefix": "gravataMapaLE",
+			"body": [
+				"<div class=\"boxMapa\">",
+            "<p class=\"titMapGraf\">$1</p>",
+            "<figure>",
+              "<img src=\"$2\" alt=\"texto alternativo\" width=\"$3\" height=\"$4\" />",
+            "</figure>",
+          "</div>"
+	
+			],
+			"description": "Modelo de gravata mapa "
+		},
+
+		"Gravata Esquema LE": {
+			"prefix": "gravataEsquemaLE",
+			"body": [
+				"<div class=\"boxEsquema\">",
+				"<p class=\"titEsquema\">$1</p>",
+				"<div class=\"box\">$2</div>",
+			  "</div>"
+	
+			],
+			"description": "Modelo de gravata esquema "
+		},
+
+		"Recado Publicitário LE": {
+			"prefix": "recadoPublicitarioLE",
+			"body": [
+				"<p class=\"imagemRecado\">$1</p>"
+			],
+			"description": "Modelo de Recado Publicitário "
+		},
+
+		"Box bate-papo inicialLE": {
+			"prefix": "boxBatePapoLE",
+			"body": [
+				"<div class=\"boxBatePapo\">",
+                "<p class=\"textoDestaque\">Bate-papo inicial</p>",
+                "<div class=\"boxProjetoFio\">",
+                  "<ul class=\"li_livreItem\">",
+                    "<li>$1</li>",
+                    "<li>$2</li>",
+                  "</ul>",
+                "</div>",
+              "</div>"
+
+			],
+			"description": "Modelo de Box Bate-papo inicial "
+		},
+
+
+		"Seção Sugestões ComplementaresLE": {
+			"prefix": "secaoSugestaoCompleLE",
+			"body": [
+				"<div class=\"boxSecSugestoesCompl\">",
+				"<p class=\"secVamos\">Sugestões complementares</p>",
+				"<div class=\"box\">",
+                 "$1",
+                "</div>",
+              "</div>"
+			],
+			"description": "Modelo de Seção Sugestões Complementare"
+		},
+
+		"Unidade Tema Sugestões LE": {
+			"prefix": "unidadeTemaSugestaoLE",
+			"body": [
+				"<p class=\"unidSugest\">Unidade $1</p>",
+				"<p class=\"titBox\">$2</p>"
+			],
+			"description": "Modelo de título de unidade e tema na seção sugestões complementares"
+		},
+
+		"Box Sugestão Seção Sugestões LE": {
+			"prefix": "boxSugestaoLE",
+			"body": [
+				"<div class=\"boxSugestao\">",
+				"<div class=\"tx_sugestao\">",
+				  "<p class=\"titBox2\">$1</p>",
+				  "<p class=\"intermediarioBox\">",
+					"$2",
+				  "</p>",
+				"</div>",
+				"<figure>",
+				  "<img src=\"$3\" alt=\"texto alternativo\" width=\"$4\" height=\"$5\" />",
+				"</figure>",
+			  "</div>"
+			],
+			"description": "Modelo de box sugestão da na seção sugestões complementares"
+		},
+
+		"Crédito Geral LE": {
+			"prefix": "creditoGeralLE",
+			"body": [
+				" <p class=\"credGeral\">$1</p>"
+			],
+			"description": "Modelo de crédito geral"
+		},
+
+
+		"Seção O tema é LE": {
+			"prefix": "secaoOtemaeLE",
+			"body": [
+				"<div class=\"flutua2\">",
+              "<p class=\"secProjeto\">O tema é ...</p>",
+              "<p class=\"temaContemp\">Direitos da criança e do adolescente</p>",
+            "</div>",
+            "<div class=\"box\">",
+			  "</div>"
+			],
+			"description": "Modelo de seção o tema é"
+		},
+
+		"Box O tema é LE": {
+			"prefix": "boxOtemaeLE",
+			"body": [
+				"<div class=\"boxOtemaFundo\">",
+				"",
+			  "</div>"
+			],
+			"description": "Modelo de box o tema fundo"
+		},
+
+
+
+
+
+
+}

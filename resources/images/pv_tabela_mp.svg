@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="7" height="10" viewBox="0 0 7 10">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Retângulo_104" data-name="Retângulo 104" width="7" height="10" transform="translate(1817 127)" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="pv_tabela_mp" transform="translate(1824 137) rotate(180)" clip-path="url(#clip-path)">
+    <path id="Caminho_101" data-name="Caminho 101" d="M4.217,6.626a2.41,2.41,0,0,1,2.41,2.41v1.807a2.41,2.41,0,0,1-2.41,2.409H0V9.036a2.41,2.41,0,0,1,2.41-2.41Z" transform="translate(1828.509 122.485) rotate(47)" fill="#9bd8dd"/>
+  </g>
+</svg>

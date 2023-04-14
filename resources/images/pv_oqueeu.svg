@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="37.695" height="28.527" viewBox="0 0 37.695 28.527">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Retângulo_45" data-name="Retângulo 45" width="37.695" height="28.527" transform="translate(0 0)" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="pv_oqueeu" transform="translate(0 0)">
+    <g id="Grupo_77" data-name="Grupo 77" clip-path="url(#clip-path)">
+      <path id="Caminho_45" data-name="Caminho 45" d="M7.083,23.433A2.086,2.086,0,0,0,9.17,21.347v-5a2.087,2.087,0,0,0-2.087-2.087h-5A2.086,2.086,0,0,0,0,16.35v5a2.085,2.085,0,0,0,2.086,2.086Zm30.612,5.094V17.508a3.245,3.245,0,0,0-3.244-3.245H23.431V3.245A3.245,3.245,0,0,0,20.188,0H12.414A3.245,3.245,0,0,0,9.17,3.245v7.773a3.244,3.244,0,0,0,3.244,3.245H23.431V25.281a3.246,3.246,0,0,0,3.246,3.246H37.695Z" fill="#8babda"/>
+    </g>
+  </g>
+</svg>

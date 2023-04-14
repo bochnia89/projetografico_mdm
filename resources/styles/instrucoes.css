@@ -1,0 +1,147 @@
+
+@charset "UTF-8";
+ /* fallback */
+ @font-face {
+    font-family: 'Material Icons';
+    font-style: normal;
+    font-weight: 400;
+    src: url(../fonts/flUhRq6tzZclQEJ-Vdg-IuiaDsNc.woff2) format('woff2');
+  }
+  
+
+  #back-to-top{
+    position: fixed;
+    z-index: 20;
+    bottom: 0;
+    margin: 1em;
+    box-shadow: 3px 3px 3px rgba(0, 0, 0, 0.2);
+    cursor: pointer;
+  }
+  .material-icons {
+    font-family: 'Material Icons';
+    font-weight: normal;
+    font-style: normal;
+    font-size: 24px;
+    line-height: 1;
+    letter-spacing: normal;
+    text-transform: none;
+    display: inline-block;
+    white-space: nowrap;
+    word-wrap: normal;
+    direction: ltr;
+    -moz-font-feature-settings: 'liga';
+    -moz-osx-font-smoothing: grayscale;
+  }
+
+/*👉Navegação do cardápio 👈*/
+
+#myLinks {
+    display: none;
+  }
+
+.menuCardapio{
+position: fixed;
+left: 0;
+top: 0.5em;
+background: #131313;
+border-radius: 0 1em 1em 0em  ;
+box-shadow: 2px 2px 8px rgb(48, 48, 48, 0.5);
+font-weight: bold;
+padding: 1em;
+color:aliceblue;
+width: max-content;
+}
+
+.menuCardapio h1 {
+    color: #0bd8df;
+    border-bottom: 1px solid #0bd8df;
+    padding: 0.5em;
+    margin-bottom: 1em;
+}
+.menuCardapio ul li{
+    padding: 0.4em 0;
+}
+.menuCardapio a {
+    color:aliceblue;
+}
+.menuCardapio a:hover{
+    color: #0bd8df;
+}
+
+/*👉INSTRUÇÃO DA PRODUÇÃO👈*/
+.instrucao{
+    box-shadow: 2px 2px 3px 0px rgba(0, 0, 0, 0.4);
+    color: #FFF;
+    margin-top: 2em;
+    padding: 0.5em;
+    margin: 2.5em 0 1em 0;
+    background: rgb(49, 49, 49);
+    font-size: 1.3em;
+}
+
+/* Comentário dos exemplos */
+.comentarioCode {
+    font-size: 0.9em;
+    line-height: 1.4em;
+    text-align: justify;
+    padding:2em 1em 1em 1em;
+    background: rgb(220, 220, 220);
+    margin: 1em 0;
+}
+.comentarioCode::before{
+    content: 'Comentário:';
+    position:absolute;
+    margin: -20px 0 0 0;
+    font-weight: bold;
+    
+}
+
+
+/* Modelo de box de código */
+.ocultar{
+    display: none !important;
+}
+.codigoExemplo {
+   display: block;
+    padding: 1em;
+    outline: none;   
+    margin-block-start: 4.5em;
+    margin-block-end: 1em;  
+    overflow: none;
+    overflow-wrap:;
+    white-space:pre-line;
+    background: rgb(56, 56, 56);
+    color: #fff;
+    border-radius: 10px;
+
+  
+}
+.codigoExemplo::before{
+    content: 'Exemplo de Código Fonte';
+    position: absolute;
+    margin: -3em 0 0 0;
+    color: #000;
+    font-size: 1.1em;
+    border: 1px solid rgb(56, 56, 56) ;
+    border-radius: 0.5em 0.5em 0 0;
+    padding: 0.1em 0.5em  0 0.5em;
+    box-shadow: 3px 3px 3px rgb(56, 56, 56, 0.3);
+}
+
+
+/* Leitura no NVDA */
+.leituraNvda {
+    border-left: 1px solid #000;
+    padding:0 1em 0 1em;
+    margin: 3em 0 1em 1em ;
+   font-style: italic;
+    line-height: 1.5em;
+  
+}
+.leituraNvda::before{
+   content: 'Forma de leitura no NVDA (em modo de leitura contínua):';
+   position:absolute;
+   margin: -30px 0 0 -1em;
+   font-weight: bold;
+   font-style: normal;
+}
