@@ -3441,9 +3441,7 @@ blockquote.li_citacaoItemMP::before {
 
 /*MEDIA QUERY*/
 /*👉Versão Mobile Cel👈*/
-@media screen and
-
-/*👉(min-width: 300px) and👈*/
+@media screen and/*👉(min-width: 300px) and👈*/
 (max-width: 700px) {
     main {
         margin: 0 10px;
@@ -3488,6 +3486,23 @@ blockquote.li_citacaoItemMP::before {
         flex-direction: column;
     }
 
+
+    table {
+        box-sizing: border-box;
+        margin: 0 10px;
+        width: 95%;
+        max-width: 100%;
+    }
+    caption {
+        width: 100% !important;
+        max-width: 100%;
+        word-break: normal;
+    }
+
+    table, thead, tbody, th, td, tr {
+        display: block;
+
+    }
 
 
     /*👉SUMÁRIO MP👈*/
