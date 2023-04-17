@@ -1927,7 +1927,7 @@ a .gloss {
     margin: 1em 0;
 }
 
-li.fichas {
+li.fichas, .listaFichas li {
     border: 2px solid #5488c7;
     border-radius: 0.5em 0 0.5em 0;
     width: max-content;
@@ -1937,6 +1937,7 @@ li.fichas {
     max-width: 100%;
     text-align: center;
 }
+
 
 div.fichas {
     border: 2px solid #5488c7;
