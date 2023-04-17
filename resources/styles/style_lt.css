@@ -629,7 +629,7 @@ aside caption {
 .tb_amarelo td,
 .tb_azul td,
 .tb_unidades td {
-    height: 33px;
+    min-height: 33px;
 }
 
 .tabela td:first-child,
