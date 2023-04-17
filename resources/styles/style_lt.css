@@ -1801,6 +1801,30 @@ div.boxImagemRecado p.imagemRecado {
 .textoDestaqueContorno .textoDestaquePalavra{
     background: #fff;
 }
+.destquePontilhado{
+    
+    margin: 1em 0;
+}
+
+.destquePontilhado .textoDestaquePalavra {
+    border: 2px solid #000;
+    border-radius: 0.5em 0.5em 0.5em 0;
+    font-family: 'Ubuntu';
+    font-size: 1.1em;
+    font-weight: 500;
+    padding: 0.1em 0.5em 0 0.5em;
+    width: max-content;
+    max-width: 100%;
+
+}
+.destquePontilhado .intermediario{
+    padding: 0.5em 0 0.5em 0.5em ;
+    border-left: 2px dotted #000;
+}
+.destquePontilhado figure{
+    margin: 0 0;
+    border-left: 2px dotted #000;
+}
 
 figure  .textoDestaquePalavra{
     border: 2px solid #000;
@@ -1812,8 +1836,14 @@ figure  .textoDestaquePalavra{
     width: max-content;
     max-width: 100%;
 }
-figure  .textoDestaquePalavra+img{
+figure  .textoDestaquePalavra+img,
+figure  .textoDestaquePalavra+.intermediario+img{
     border-left: 2px dotted #000;
+}
+figure  .textoDestaquePalavra+.intermediario{
+    
+    border-left: 2px dotted #000;
+    padding: 0.1em 0.5em 0 0.5em;
 }
 .boxTextoDestaque {
     border-left: 2px dotted #000;
