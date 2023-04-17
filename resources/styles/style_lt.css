@@ -1801,12 +1801,12 @@ div.boxImagemRecado p.imagemRecado {
 .textoDestaqueContorno .textoDestaquePalavra{
     background: #fff;
 }
-.destquePontilhado{
+.destaquePontilhado{
     
     margin: 1em 0;
 }
 
-.destquePontilhado .textoDestaquePalavra {
+.destaquePontilhado .textoDestaquePalavra {
     border: 2px solid #000;
     border-radius: 0.5em 0.5em 0.5em 0;
     font-family: 'Ubuntu';
@@ -1817,11 +1817,11 @@ div.boxImagemRecado p.imagemRecado {
     max-width: 100%;
 
 }
-.destquePontilhado .intermediario{
+.destaquePontilhado .intermediario{
     padding: 0.5em 0 0.5em 0.5em ;
     border-left: 2px dotted #000;
 }
-.destquePontilhado figure{
+.destaquePontilhado figure{
     margin: 0 0;
     border-left: 2px dotted #000;
 }
