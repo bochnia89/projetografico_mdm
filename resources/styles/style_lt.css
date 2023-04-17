@@ -3116,10 +3116,14 @@ aside {
 ul.li_itemMP {
     list-style: disc;
     margin: 1em 0 1em 1em;
+    text-align: justify;
+    hyphens: none;
 }
 
 p.li_itemMP {
     margin: 1em 0 1em 1em;
+    text-align: justify;
+    hyphens: none;
 }
 
 p.li_itemMP::before {
@@ -3134,6 +3138,8 @@ p.li_itemMP::before {
 ul.subItemMP,
 p.subItemMP {
     margin: 1em 0 1em 1em;
+    text-align: justify;
+    hyphens: none;
 }
 
 ul.subItemMP li::before,
