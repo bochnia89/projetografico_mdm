@@ -354,6 +354,41 @@
 		},
 
 
+		"Seção Projeto em ação": {
+			"prefix": "secProjetoEmAcaoLE",
+			"body": [
+				"<div class=\"boxSecProjeto\">",
+           		 "<h2 class=\"secProjeto\">Projeto em ação</h2>",
+            "<div class=\"box\">",
+			"</div>",
+			"</div>"
+			],
+			"description": "Modelo de Seção projeto em ação"
+		},
+
+		"Seção Projeto em ação pag 2": {
+			"prefix": "secProjetoEmAcao2LE",
+			"body": [
+				"<div class=\"boxSecProjeto\">",
+            "<div class=\"box\">",
+			"</div>",
+			"</div>"
+			],
+			"description": "Modelo de Seção projeto em ação página 2"
+		},
+
+
+		"Box projeto fundo": {
+			"prefix": "boxProjetoFundoLE",
+			"body": [
+				"<div class=\"boxProjetoFundo\">$1</div>"
+			],
+			"description": "Modelo de box projeto fundo"
+		},
+
+
+
+
 		"Seção O tema é LE": {
 			"prefix": "secaoOtemaeLE",
 			"body": [
