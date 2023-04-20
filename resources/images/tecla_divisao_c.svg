@@ -1,0 +1,51 @@
+<svg id="tecla_divisao_c" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="20.403" height="16.677" viewBox="0 0 20.403 16.677">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Retângulo_315" data-name="Retângulo 315" width="20.403" height="16.677" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <rect id="Retângulo_314" data-name="Retângulo 314" width="20.403" height="16.677" transform="translate(0 0)" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-3">
+      <rect id="Retângulo_311" data-name="Retângulo 311" width="19.903" height="16.177" transform="translate(0.25 0.25)" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-4">
+      <path id="Caminho_227" data-name="Caminho 227" d="M17.318,16.427H3.085A2.844,2.844,0,0,1,.25,13.592V3.085A2.844,2.844,0,0,1,3.085.25H17.318a2.844,2.844,0,0,1,2.835,2.835V13.592a2.844,2.844,0,0,1-2.835,2.835" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-5">
+      <rect id="Retângulo_310" data-name="Retângulo 310" width="16.397" height="20.081" transform="translate(0.071 16.425) rotate(-89.365)" fill="none"/>
+    </clipPath>
+    <pattern id="pattern" preserveAspectRatio="none" width="100%" height="100%" viewBox="0 0 21 17">
+      <image width="21" height="17" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABUAAAARCAYAAAAyhueAAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAETSURBVDhPrZOJEoMgDETxQMfP9qs9QFoX3Bolbe3UzOwEFF6WiMVjDXNv9OU2uDX+guKQIQTjvY9yzsX88/EBOQsIgekvQ7F5WZaDsFVCoaIorkFxJEBwPAnVnFZV9RmKV7JX1BmcEAAbU9f1eyiB8zy/wHQqwQlKsDHWNjpUAgGSYOYQAE19JhRq21a/p9IZwdM0bRrjs3EcVw1xjvEwDDFjTQbFcVCdUOnYuXkdo9AUnwGQ4AlGZVDZKzrG3HtAMQc4AVkM6+S+AxQ9oVMslK69J3hvCd4pn0SHUnt15OSGrjQY4wAlLIfv7lORsO3QI+spgZprjr9FBi3LEr9azNbaqKaxuH9rbvBvbyv16LrOPAH/jRRYYShVQQAAAABJRU5ErkJggg=="/>
+    </pattern>
+  </defs>
+  <g id="Grupo_599" data-name="Grupo 599" clip-path="url(#clip-path)">
+    <g id="Grupo_598" data-name="Grupo 598">
+      <g id="Grupo_597" data-name="Grupo 597" clip-path="url(#clip-path-2)">
+        <path id="Caminho_226" data-name="Caminho 226" d="M17.318,16.427H3.085A2.844,2.844,0,0,1,.25,13.592V3.085A2.844,2.844,0,0,1,3.085.25H17.318a2.844,2.844,0,0,1,2.835,2.835V13.592a2.844,2.844,0,0,1-2.835,2.835" fill="#c9ca00"/>
+        <g id="Grupo_596" data-name="Grupo 596" style="mix-blend-mode: multiply;isolation: isolate">
+          <g id="Grupo_595" data-name="Grupo 595">
+            <g id="Grupo_594" data-name="Grupo 594" clip-path="url(#clip-path-3)">
+              <g id="Grupo_593" data-name="Grupo 593">
+                <g id="Grupo_592" data-name="Grupo 592" clip-path="url(#clip-path-4)">
+                  <g id="Grupo_591" data-name="Grupo 591">
+                    <g id="Grupo_590" data-name="Grupo 590">
+                      <g id="Grupo_589" data-name="Grupo 589" clip-path="url(#clip-path-5)">
+                        <rect id="Retângulo_309" data-name="Retângulo 309" width="20.4" height="16.8" transform="translate(0 -0.123)" fill="url(#pattern)"/>
+                      </g>
+                    </g>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+        <path id="Caminho_228" data-name="Caminho 228" d="M15.982,14.985H3.085A2.844,2.844,0,0,1,.25,12.15V3.084A2.843,2.843,0,0,1,3.085.25h12.9a2.843,2.843,0,0,1,2.835,2.834V12.15a2.844,2.844,0,0,1-2.835,2.835" fill="#d6cf00"/>
+        <rect id="Retângulo_312" data-name="Retângulo 312" width="19.903" height="16.177" rx="2.835" transform="translate(0.25 0.25)" fill="none" stroke="#161615" stroke-miterlimit="10" stroke-width="0.5"/>
+        <path id="Caminho_229" data-name="Caminho 229" d="M10.844,6.388a.643.643,0,1,1-.642-.642.642.642,0,0,1,.642.642" fill="#161615"/>
+        <path id="Caminho_230" data-name="Caminho 230" d="M10.844,10.289a.643.643,0,1,1-.642-.644.642.642,0,0,1,.642.644" fill="#161615"/>
+        <rect id="Retângulo_313" data-name="Retângulo 313" width="5.44" height="0.734" transform="translate(7.482 7.971)" fill="#161615"/>
+      </g>
+    </g>
+  </g>
+</svg>

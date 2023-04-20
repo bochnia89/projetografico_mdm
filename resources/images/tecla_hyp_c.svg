@@ -1,0 +1,50 @@
+<svg id="tecla_hyp_c" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="19.219" height="21.302" viewBox="0 0 19.219 21.302">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Retângulo_600" data-name="Retângulo 600" width="19.219" height="21.302" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <rect id="Retângulo_599" data-name="Retângulo 599" width="19.219" height="21.302" transform="translate(0 0)" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-3">
+      <rect id="Retângulo_597" data-name="Retângulo 597" width="18.719" height="15.215" transform="translate(0.25 5.837)" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-4">
+      <path id="Caminho_396" data-name="Caminho 396" d="M16.134,21.052H3.085A2.844,2.844,0,0,1,.25,18.217V8.672A2.844,2.844,0,0,1,3.085,5.837H16.134a2.844,2.844,0,0,1,2.835,2.835v9.545a2.844,2.844,0,0,1-2.835,2.835" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-5">
+      <rect id="Retângulo_596" data-name="Retângulo 596" width="15.421" height="18.886" transform="translate(0.081 21.05) rotate(-89.365)" fill="none"/>
+    </clipPath>
+    <pattern id="pattern" preserveAspectRatio="none" width="100%" height="100%" viewBox="0 0 20 16">
+      <image width="20" height="16" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAQCAYAAAAWGF8bAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAD0SURBVDhPrdKLjoMgEIVh1NX4Wn3/F1IBXX6nJ4yht910khOwyidj6Y5S4Xt16++Tr9W/wX3fQ845xBgv+VPLIII0Z7nSdd3tI5BHUkonpNGDjPd6DwqhHQ8KZbnS9/1rkMVk27aH6HGwywqO4/gcFADmwZSIdkgqOE3TY5CHBfmAAsaYToxr3/Y8z+055AYgu1HAbFzDuoKvYVmWMrdR4boBhXnU2vVojV6mNCAtgIEw5lzb9O2zmPtqV3UBwRTDgC0G13/aI74uoL6fPvQVNvAVRjWgYqiPvexdNd+wnPYzwzCU/JTDOnFgOWMci/P35xXCL8C93TWLMSf1AAAAAElFTkSuQmCC"/>
+    </pattern>
+  </defs>
+  <g id="Grupo_1146" data-name="Grupo 1146" clip-path="url(#clip-path)">
+    <g id="Grupo_1145" data-name="Grupo 1145">
+      <g id="Grupo_1144" data-name="Grupo 1144" clip-path="url(#clip-path-2)">
+        <path id="Caminho_395" data-name="Caminho 395" d="M16.134,21.052H3.085A2.844,2.844,0,0,1,.25,18.217V8.672A2.844,2.844,0,0,1,3.085,5.837H16.134a2.844,2.844,0,0,1,2.835,2.835v9.545a2.844,2.844,0,0,1-2.835,2.835" fill="#ffa900"/>
+        <g id="Grupo_1143" data-name="Grupo 1143" style="mix-blend-mode: multiply;isolation: isolate">
+          <g id="Grupo_1142" data-name="Grupo 1142">
+            <g id="Grupo_1141" data-name="Grupo 1141" clip-path="url(#clip-path-3)">
+              <g id="Grupo_1140" data-name="Grupo 1140">
+                <g id="Grupo_1139" data-name="Grupo 1139" clip-path="url(#clip-path-4)">
+                  <g id="Grupo_1138" data-name="Grupo 1138">
+                    <g id="Grupo_1137" data-name="Grupo 1137">
+                      <g id="Grupo_1136" data-name="Grupo 1136" clip-path="url(#clip-path-5)">
+                        <rect id="Retângulo_595" data-name="Retângulo 595" width="19.2" height="15.84" transform="translate(0 5.462)" fill="url(#pattern)"/>
+                      </g>
+                    </g>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+        <path id="Caminho_397" data-name="Caminho 397" d="M14.877,19.7H3.084A2.843,2.843,0,0,1,.25,16.861V8.672A2.843,2.843,0,0,1,3.084,5.837H14.877a2.844,2.844,0,0,1,2.835,2.835v8.189A2.844,2.844,0,0,1,14.877,19.7" fill="#ffb500"/>
+        <rect id="Retângulo_598" data-name="Retângulo 598" width="18.719" height="15.215" rx="2.835" transform="translate(0.25 5.837)" fill="none" stroke="#161615" stroke-miterlimit="10" stroke-width="0.5"/>
+        <text id="C" transform="translate(13.577 4.23)" fill="#3e2176" font-size="5" font-family="JoannaSansNova-Book, Joanna Sans Nova"><tspan x="0" y="0">C</tspan></text>
+      </g>
+    </g>
+    <text id="hyp" transform="translate(3.376 15.742)" fill="#161615" font-size="8.007" font-family="JoannaSansNova-Regular, Joanna Sans Nova"><tspan x="0" y="0">hyp</tspan></text>
+  </g>
+</svg>

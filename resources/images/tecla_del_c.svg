@@ -1,0 +1,54 @@
+<svg id="tecla_del_c" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="20.403" height="22.122" viewBox="0 0 20.403 22.122">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Retângulo_531" data-name="Retângulo 531" width="20.403" height="22.122" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <rect id="Retângulo_529" data-name="Retângulo 529" width="20.403" height="22.122" transform="translate(0 0)" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-3">
+      <rect id="Retângulo_527" data-name="Retângulo 527" width="19.903" height="16.177" transform="translate(0.25 5.695)" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-4">
+      <path id="Caminho_357" data-name="Caminho 357" d="M17.318,21.872H3.085A2.844,2.844,0,0,1,.25,19.037V8.53A2.844,2.844,0,0,1,3.085,5.7H17.318A2.844,2.844,0,0,1,20.153,8.53V19.037a2.844,2.844,0,0,1-2.835,2.835" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-5">
+      <rect id="Retângulo_526" data-name="Retângulo 526" width="16.397" height="20.081" transform="translate(0.071 21.87) rotate(-89.365)" fill="none"/>
+    </clipPath>
+    <pattern id="pattern" preserveAspectRatio="none" width="100%" height="100%" viewBox="0 0 21 17">
+      <image width="21" height="17" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABUAAAARCAYAAAAyhueAAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAETSURBVDhPrZOJEoMgDETxQMfP9qs9QFoX3Bolbe3UzOwEFF6WiMVjDXNv9OU2uDX+guKQIQTjvY9yzsX88/EBOQsIgekvQ7F5WZaDsFVCoaIorkFxJEBwPAnVnFZV9RmKV7JX1BmcEAAbU9f1eyiB8zy/wHQqwQlKsDHWNjpUAgGSYOYQAE19JhRq21a/p9IZwdM0bRrjs3EcVw1xjvEwDDFjTQbFcVCdUOnYuXkdo9AUnwGQ4AlGZVDZKzrG3HtAMQc4AVkM6+S+AxQ9oVMslK69J3hvCd4pn0SHUnt15OSGrjQY4wAlLIfv7lORsO3QI+spgZprjr9FBi3LEr9azNbaqKaxuH9rbvBvbyv16LrOPAH/jRRYYShVQQAAAABJRU5ErkJggg=="/>
+    </pattern>
+  </defs>
+  <g id="Grupo_1019" data-name="Grupo 1019" clip-path="url(#clip-path)">
+    <g id="Grupo_1016" data-name="Grupo 1016">
+      <g id="Grupo_1015" data-name="Grupo 1015" clip-path="url(#clip-path-2)">
+        <path id="Caminho_356" data-name="Caminho 356" d="M17.318,21.872H3.085A2.844,2.844,0,0,1,.25,19.037V8.53A2.844,2.844,0,0,1,3.085,5.7H17.318A2.844,2.844,0,0,1,20.153,8.53V19.037a2.844,2.844,0,0,1-2.835,2.835" fill="#9cd8f8"/>
+        <g id="Grupo_1014" data-name="Grupo 1014" style="mix-blend-mode: multiply;isolation: isolate">
+          <g id="Grupo_1013" data-name="Grupo 1013">
+            <g id="Grupo_1012" data-name="Grupo 1012" clip-path="url(#clip-path-3)">
+              <g id="Grupo_1011" data-name="Grupo 1011">
+                <g id="Grupo_1010" data-name="Grupo 1010" clip-path="url(#clip-path-4)">
+                  <g id="Grupo_1009" data-name="Grupo 1009">
+                    <g id="Grupo_1008" data-name="Grupo 1008">
+                      <g id="Grupo_1007" data-name="Grupo 1007" clip-path="url(#clip-path-5)">
+                        <rect id="Retângulo_525" data-name="Retângulo 525" width="20.4" height="16.8" transform="translate(0 5.322)" fill="url(#pattern)"/>
+                      </g>
+                    </g>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+        <path id="Caminho_358" data-name="Caminho 358" d="M15.982,20.431H3.085A2.844,2.844,0,0,1,.25,17.6V8.53A2.843,2.843,0,0,1,3.085,5.7h12.9A2.843,2.843,0,0,1,18.817,8.53V17.6a2.844,2.844,0,0,1-2.835,2.835" fill="#9cd8f8"/>
+        <rect id="Retângulo_528" data-name="Retângulo 528" width="19.903" height="16.177" rx="2.835" transform="translate(0.25 5.695)" fill="none" stroke="#161615" stroke-miterlimit="10" stroke-width="0.5"/>
+      </g>
+    </g>
+    <text id="DEL" transform="translate(3.441 16.081)" fill="#161615" font-size="8.005" font-family="JoannaSansNova-Regular, Joanna Sans Nova"><tspan x="0" y="0">DEL</tspan></text>
+    <g id="Grupo_1018" data-name="Grupo 1018">
+      <g id="Grupo_1017" data-name="Grupo 1017" clip-path="url(#clip-path-2)">
+        <text id="INS" transform="translate(6.489 4.231)" fill="#e23734" font-size="5" font-family="JoannaSansNova-Book, Joanna Sans Nova"><tspan x="0" y="0">INS</tspan></text>
+      </g>
+    </g>
+  </g>
+</svg>

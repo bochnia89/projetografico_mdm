@@ -1,0 +1,55 @@
+<svg id="tecla_pol_c" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="19.219" height="20.891" viewBox="0 0 19.219 20.891">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Retângulo_686" data-name="Retângulo 686" width="19.219" height="20.891" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <rect id="Retângulo_684" data-name="Retângulo 684" width="19.219" height="20.891" transform="translate(0 0)" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-3">
+      <rect id="Retângulo_682" data-name="Retângulo 682" width="18.719" height="15.215" transform="translate(0.25 5.426)" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-4">
+      <path id="Caminho_442" data-name="Caminho 442" d="M16.134,20.641H3.085A2.844,2.844,0,0,1,.25,17.806V8.261A2.844,2.844,0,0,1,3.085,5.426H16.134a2.844,2.844,0,0,1,2.835,2.835v9.545a2.844,2.844,0,0,1-2.835,2.835" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-5">
+      <rect id="Retângulo_681" data-name="Retângulo 681" width="15.421" height="18.886" transform="translate(0.081 20.639) rotate(-89.365)" fill="none"/>
+    </clipPath>
+    <pattern id="pattern" preserveAspectRatio="none" width="100%" height="100%" viewBox="0 0 20 16">
+      <image width="20" height="16" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAQCAYAAAAWGF8bAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAD0SURBVDhPrdKLjoMgEIVh1NX4Wn3/F1IBXX6nJ4yht910khOwyidj6Y5S4Xt16++Tr9W/wX3fQ845xBgv+VPLIII0Z7nSdd3tI5BHUkonpNGDjPd6DwqhHQ8KZbnS9/1rkMVk27aH6HGwywqO4/gcFADmwZSIdkgqOE3TY5CHBfmAAsaYToxr3/Y8z+055AYgu1HAbFzDuoKvYVmWMrdR4boBhXnU2vVojV6mNCAtgIEw5lzb9O2zmPtqV3UBwRTDgC0G13/aI74uoL6fPvQVNvAVRjWgYqiPvexdNd+wnPYzwzCU/JTDOnFgOWMci/P35xXCL8C93TWLMSf1AAAAAElFTkSuQmCC"/>
+    </pattern>
+  </defs>
+  <g id="Grupo_1309" data-name="Grupo 1309" clip-path="url(#clip-path)">
+    <g id="Grupo_1306" data-name="Grupo 1306">
+      <g id="Grupo_1305" data-name="Grupo 1305" clip-path="url(#clip-path-2)">
+        <path id="Caminho_441" data-name="Caminho 441" d="M16.134,20.641H3.085A2.844,2.844,0,0,1,.25,17.806V8.261A2.844,2.844,0,0,1,3.085,5.426H16.134a2.844,2.844,0,0,1,2.835,2.835v9.545a2.844,2.844,0,0,1-2.835,2.835" fill="#ffa900"/>
+        <g id="Grupo_1304" data-name="Grupo 1304" style="mix-blend-mode: multiply;isolation: isolate">
+          <g id="Grupo_1303" data-name="Grupo 1303">
+            <g id="Grupo_1302" data-name="Grupo 1302" clip-path="url(#clip-path-3)">
+              <g id="Grupo_1301" data-name="Grupo 1301">
+                <g id="Grupo_1300" data-name="Grupo 1300" clip-path="url(#clip-path-4)">
+                  <g id="Grupo_1299" data-name="Grupo 1299">
+                    <g id="Grupo_1298" data-name="Grupo 1298">
+                      <g id="Grupo_1297" data-name="Grupo 1297" clip-path="url(#clip-path-5)">
+                        <rect id="Retângulo_680" data-name="Retângulo 680" width="19.2" height="15.84" transform="translate(0 5.051)" fill="url(#pattern)"/>
+                      </g>
+                    </g>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+        <path id="Caminho_443" data-name="Caminho 443" d="M14.877,19.285H3.084A2.843,2.843,0,0,1,.25,16.45V8.261A2.843,2.843,0,0,1,3.084,5.426H14.877a2.844,2.844,0,0,1,2.835,2.835V16.45a2.844,2.844,0,0,1-2.835,2.835" fill="#ffb500"/>
+        <rect id="Retângulo_683" data-name="Retângulo 683" width="18.719" height="15.215" rx="2.835" transform="translate(0.25 5.426)" fill="none" stroke="#161615" stroke-miterlimit="10" stroke-width="0.5"/>
+      </g>
+    </g>
+    <text id="Pol_" data-name="Pol(" transform="translate(2.879 15.331)" fill="#161615" font-size="8.007" font-family="JoannaSansNova-Regular, Joanna Sans Nova"><tspan x="0" y="0" letter-spacing="-0.015em">P</tspan><tspan y="0">ol(</tspan></text>
+    <g id="Grupo_1308" data-name="Grupo 1308">
+      <g id="Grupo_1307" data-name="Grupo 1307" clip-path="url(#clip-path-2)">
+        <text id="Rec_" data-name="Rec(" transform="translate(1.767 4.23)" fill="#e23734" font-size="5" font-family="JoannaSansNova-Book, Joanna Sans Nova"><tspan x="0" y="0">Rec(</tspan></text>
+        <text id=":" transform="translate(16.353 4.23)" fill="#401a71" font-size="5" font-family="JoannaSansNova-Book, Joanna Sans Nova"><tspan x="0" y="0">:</tspan></text>
+      </g>
+    </g>
+  </g>
+</svg>

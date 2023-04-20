@@ -1,0 +1,11 @@
+<svg id="pv_sumsugestoes" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="11.338" height="11.338" viewBox="0 0 11.338 11.338">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Retângulo_100" data-name="Retângulo 100" width="11.338" height="11.338" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="Grupo_200" data-name="Grupo 200" transform="translate(0 0)" clip-path="url(#clip-path)">
+    <path id="Caminho_100" data-name="Caminho 100" d="M1.417,5.669A1.417,1.417,0,0,0,0,7.086V9.921a1.416,1.416,0,0,0,1.417,1.417H5.669V7.086A1.418,1.418,0,0,0,4.252,5.669Z" transform="translate(5.669 0)" fill="#009ba4"/>
+    <rect id="Retângulo_99" data-name="Retângulo 99" width="5.669" height="5.669" rx="1.417" transform="translate(0 0)" fill="#75c8d2"/>
+  </g>
+</svg>

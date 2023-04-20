@@ -1,0 +1,54 @@
+<svg id="tecla_exp_c" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="20.403" height="21.072" viewBox="0 0 20.403 21.072">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Retângulo_568" data-name="Retângulo 568" width="20.403" height="21.072" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <rect id="Retângulo_566" data-name="Retângulo 566" width="20.403" height="21.072" transform="translate(0 0)" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-3">
+      <rect id="Retângulo_564" data-name="Retângulo 564" width="19.903" height="16.177" transform="translate(0.25 4.645)" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-4">
+      <path id="Caminho_379" data-name="Caminho 379" d="M17.318,20.822H3.085A2.844,2.844,0,0,1,.25,17.987V7.48A2.844,2.844,0,0,1,3.085,4.645H17.318A2.844,2.844,0,0,1,20.153,7.48V17.987a2.844,2.844,0,0,1-2.835,2.835" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-5">
+      <rect id="Retângulo_563" data-name="Retângulo 563" width="16.397" height="20.081" transform="translate(0.071 20.82) rotate(-89.365)" fill="none"/>
+    </clipPath>
+    <pattern id="pattern" preserveAspectRatio="none" width="100%" height="100%" viewBox="0 0 21 17">
+      <image width="21" height="17" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABUAAAARCAYAAAAyhueAAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAERSURBVDhPrZONDoMgDITxB42P7VOjgmwceLMO3Fxmk0tB4eu1c9UjhLo3xnpb3Bp/QdGk914556KstTH/3D4g7wJCYMbLUFxe1/UgXJVQqKqqa1C0BAjak9CS06ZpPkPxSs6KegcnBMBKtW17DiVwWZYXmE4lOEEJVkrrrgyVQIAkmNl7QNOcCYX6vi9/p9IZwfM8b5ris2magkzcY22MiRlnMijaQXVCpWNrl7BGoTk+AyDBE4zKoHJWdIy9c4BiD3ACshjOyXsHKGZCpzgoXTtH8D4SvCv8JGUotVdHTm7oqgRjHKCE5fDdfSritxvlyGZKYMk1198ig9Z1jb9azFrrqK7T+P5C7rZT5zEMg3oC/yQUVUGi5aEAAAAASUVORK5CYII="/>
+    </pattern>
+  </defs>
+  <g id="Grupo_1087" data-name="Grupo 1087" clip-path="url(#clip-path)">
+    <g id="Grupo_1084" data-name="Grupo 1084">
+      <g id="Grupo_1083" data-name="Grupo 1083" clip-path="url(#clip-path-2)">
+        <path id="Caminho_378" data-name="Caminho 378" d="M17.318,20.822H3.085A2.844,2.844,0,0,1,.25,17.987V7.48A2.844,2.844,0,0,1,3.085,4.645H17.318A2.844,2.844,0,0,1,20.153,7.48V17.987a2.844,2.844,0,0,1-2.835,2.835" fill="#c9ca00"/>
+        <g id="Grupo_1082" data-name="Grupo 1082" style="mix-blend-mode: multiply;isolation: isolate">
+          <g id="Grupo_1081" data-name="Grupo 1081">
+            <g id="Grupo_1080" data-name="Grupo 1080" clip-path="url(#clip-path-3)">
+              <g id="Grupo_1079" data-name="Grupo 1079">
+                <g id="Grupo_1078" data-name="Grupo 1078" clip-path="url(#clip-path-4)">
+                  <g id="Grupo_1077" data-name="Grupo 1077">
+                    <g id="Grupo_1076" data-name="Grupo 1076">
+                      <g id="Grupo_1075" data-name="Grupo 1075" clip-path="url(#clip-path-5)">
+                        <rect id="Retângulo_562" data-name="Retângulo 562" width="20.4" height="16.8" transform="translate(0 4.272)" fill="url(#pattern)"/>
+                      </g>
+                    </g>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+        <path id="Caminho_380" data-name="Caminho 380" d="M15.982,19.381H3.085A2.844,2.844,0,0,1,.25,16.546V7.48A2.843,2.843,0,0,1,3.085,4.646h12.9A2.843,2.843,0,0,1,18.817,7.48v9.066a2.844,2.844,0,0,1-2.835,2.835" fill="#d6cf00"/>
+        <rect id="Retângulo_565" data-name="Retângulo 565" width="19.903" height="16.177" rx="2.835" transform="translate(0.25 4.645)" fill="none" stroke="#161615" stroke-miterlimit="10" stroke-width="0.5"/>
+      </g>
+    </g>
+    <text id="EXP" transform="translate(3.621 15.032)" fill="#161615" font-size="8.005" font-family="JoannaSansNova-Regular, Joanna Sans Nova"><tspan x="0" y="0">EXP</tspan></text>
+    <g id="Grupo_1086" data-name="Grupo 1086">
+      <g id="Grupo_1085" data-name="Grupo 1085" clip-path="url(#clip-path-2)">
+        <path id="Caminho_381" data-name="Caminho 381" d="M11.974,0V.516h-.863a10.293,10.293,0,0,0-.127,1.566.838.838,0,0,0,.129.526.393.393,0,0,0,.32.16.385.385,0,0,0,.27-.108.516.516,0,0,0,.144-.311h.127a1.431,1.431,0,0,1-.27.8.619.619,0,0,1-.47.231.555.555,0,0,1-.464-.252,1.724,1.724,0,0,1-.185-.946q0-.435.135-1.662H9.793a12.981,12.981,0,0,1-.266,2.366c-.105.33-.25.494-.432.494a.284.284,0,0,1-.213-.086A.3.3,0,0,1,8.8,3.076a.407.407,0,0,1,.028-.159,1.453,1.453,0,0,1,.167-.262,1.744,1.744,0,0,0,.3-.606A7.056,7.056,0,0,0,9.5.516H9.334A.7.7,0,0,0,8.945.6a1.167,1.167,0,0,0-.378.427H8.429A1.918,1.918,0,0,1,8.9.178.84.84,0,0,1,9.465,0Z" fill="#e23734"/>
+      </g>
+    </g>
+  </g>
+</svg>

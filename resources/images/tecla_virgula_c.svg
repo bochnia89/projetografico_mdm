@@ -1,0 +1,51 @@
+<svg id="tecla_virgula_c" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="19.219" height="21.28" viewBox="0 0 19.219 21.28">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Retângulo_766" data-name="Retângulo 766" width="19.219" height="21.28" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <rect id="Retângulo_765" data-name="Retângulo 765" width="19.219" height="21.28" transform="translate(0 0)" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-3">
+      <rect id="Retângulo_763" data-name="Retângulo 763" width="18.719" height="15.215" transform="translate(0.25 5.815)" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-4">
+      <path id="Caminho_491" data-name="Caminho 491" d="M16.134,21.03H3.085A2.844,2.844,0,0,1,.25,18.195V8.65A2.844,2.844,0,0,1,3.085,5.815H16.134A2.844,2.844,0,0,1,18.969,8.65v9.545a2.844,2.844,0,0,1-2.835,2.835" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-5">
+      <rect id="Retângulo_762" data-name="Retângulo 762" width="15.421" height="18.886" transform="translate(0.081 21.028) rotate(-89.365)" fill="none"/>
+    </clipPath>
+    <pattern id="pattern" preserveAspectRatio="none" width="100%" height="100%" viewBox="0 0 20 16">
+      <image width="20" height="16" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAQCAYAAAAWGF8bAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAD0SURBVDhPrdKLjoMgEIVh1NX4Wn3/F1IBXX6nJ4yht910khOwyidj6Y5S4Xt16++Tr9W/wX3fQ845xBgv+VPLIII0Z7nSdd3tI5BHUkonpNGDjPd6DwqhHQ8KZbnS9/1rkMVk27aH6HGwywqO4/gcFADmwZSIdkgqOE3TY5CHBfmAAsaYToxr3/Y8z+055AYgu1HAbFzDuoKvYVmWMrdR4boBhXnU2vVojV6mNCAtgIEw5lzb9O2zmPtqV3UBwRTDgC0G13/aI74uoL6fPvQVNvAVRjWgYqiPvexdNd+wnPYzwzCU/JTDOnFgOWMci/P35xXCL8C93TWLMSf1AAAAAElFTkSuQmCC"/>
+    </pattern>
+  </defs>
+  <g id="Grupo_1458" data-name="Grupo 1458" clip-path="url(#clip-path)">
+    <g id="Grupo_1457" data-name="Grupo 1457">
+      <g id="Grupo_1456" data-name="Grupo 1456" clip-path="url(#clip-path-2)">
+        <path id="Caminho_490" data-name="Caminho 490" d="M16.134,21.03H3.085A2.844,2.844,0,0,1,.25,18.195V8.65A2.844,2.844,0,0,1,3.085,5.815H16.134A2.844,2.844,0,0,1,18.969,8.65v9.545a2.844,2.844,0,0,1-2.835,2.835" fill="#ffa900"/>
+        <g id="Grupo_1455" data-name="Grupo 1455" style="mix-blend-mode: multiply;isolation: isolate">
+          <g id="Grupo_1454" data-name="Grupo 1454">
+            <g id="Grupo_1453" data-name="Grupo 1453" clip-path="url(#clip-path-3)">
+              <g id="Grupo_1452" data-name="Grupo 1452">
+                <g id="Grupo_1451" data-name="Grupo 1451" clip-path="url(#clip-path-4)">
+                  <g id="Grupo_1450" data-name="Grupo 1450">
+                    <g id="Grupo_1449" data-name="Grupo 1449">
+                      <g id="Grupo_1448" data-name="Grupo 1448" clip-path="url(#clip-path-5)">
+                        <rect id="Retângulo_761" data-name="Retângulo 761" width="19.2" height="15.84" transform="translate(0 5.44)" fill="url(#pattern)"/>
+                      </g>
+                    </g>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+        <path id="Caminho_492" data-name="Caminho 492" d="M14.877,19.674H3.084A2.843,2.843,0,0,1,.25,16.839V8.65A2.843,2.843,0,0,1,3.084,5.815H14.877A2.844,2.844,0,0,1,17.712,8.65v8.189a2.844,2.844,0,0,1-2.835,2.835" fill="#ffb500"/>
+        <rect id="Retângulo_764" data-name="Retângulo 764" width="18.719" height="15.215" rx="2.835" transform="translate(0.25 5.815)" fill="none" stroke="#161615" stroke-miterlimit="10" stroke-width="0.5"/>
+        <text id="Y" transform="translate(14.44 4.582)" fill="#3e2176" font-size="5" font-family="JoannaSansNova-Book, Joanna Sans Nova"><tspan x="0" y="0">Y</tspan></text>
+        <text id="_" data-name=";" transform="translate(5.36 4.227)" fill="#e23734" font-size="5" font-family="JoannaSansNova-Book, Joanna Sans Nova"><tspan x="0" y="0">;</tspan></text>
+      </g>
+    </g>
+    <text id="_2" data-name="’" transform="translate(8.7 17.72)" fill="#161615" font-size="8.007" font-family="JoannaSansNova-Regular, Joanna Sans Nova"><tspan x="0" y="0">’</tspan></text>
+  </g>
+</svg>
