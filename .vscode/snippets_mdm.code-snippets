@@ -547,6 +547,79 @@
 			"description": "Modelo de tecla Divisão"
 		},
 
+		"Tecla igual": {
+			"prefix": "teclaIgualLE",
+			"body": [
+				"<img src=\"../resources/images/tecla_igual.svg\" alt=\"texto alternativo\" width=\"30\" height=\"24\" />"
+			],
+			"description": "Modelo de tecla igual"
+		},
+
+		"Tecla M +": {
+			"prefix": "teclaM+LE",
+			"body": [
+				"<img src=\"../resources/images/tecla_m_mais.svg\" alt=\"texto alternativo\" width=\"30\" height=\"24\" />"
+			],
+			"description": "Modelo de tecla M +"
+		},
+
+		"Tecla M -": {
+			"prefix": "teclaM-LE",
+			"body": [
+				"<img src=\"../resources/images/tecla_m_menos.svg\" alt=\"texto alternativo\" width=\"30\" height=\"24\" />"
+			],
+			"description": "Modelo de tecla M -"
+		},
+
+		"Tecla MR": {
+			"prefix": "teclaMRLE",
+			"body": [
+				"<img src=\"../resources/images/tecla_mr.svg\" alt=\"texto alternativo\" width=\"30\" height=\"24\" />"
+			],
+			"description": "Modelo de tecla MR"
+		},
+
+		"Tecla AC": {
+			"prefix": "teclaAcLE",
+			"body": [
+				"<img src=\"../resources/images/tecla_ac.svg\" alt=\"texto alternativo\" width=\"30\" height=\"24\" />"
+			],
+			"description": "Modelo de tecla AC"
+		},
+
+		"Tecla OFF": {
+			"prefix": "teclaOffLE",
+			"body": [
+				"<img src=\"../resources/images/tecla_off.svg\" alt=\"texto alternativo\" width=\"30\" height=\"24\" />"
+			],
+			"description": "Modelo de tecla OFF"
+		},
+
+		"Tecla ONc": {
+			"prefix": "teclaONcLE",
+			"body": [
+				"<img src=\"../resources/images/tecla_onc.svg\" alt=\"texto alternativo\" width=\"30\" height=\"24\" />"
+			],
+			"description": "Modelo de tecla onc"
+		},
+
+		"Tecla Raiz": {
+			"prefix": "teclaRaizLE",
+			"body": [
+				"<img src=\"../resources/images/tecla_raiz.svg\" alt=\"texto alternativo\" width=\"30\" height=\"24\" />"
+			],
+			"description": "Modelo de tecla Raiz"
+		},
+
+		"Tecla Ponto": {
+			"prefix": "teclaPontoLE",
+			"body": [
+				"<img src=\"../resources/images/tecla_ponto.svg\" alt=\"texto alternativo\" width=\"30\" height=\"24\" />"
+			],
+			"description": "Modelo de tecla ponto"
+		},
+
+
 
 
 }
