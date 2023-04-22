@@ -4,7 +4,7 @@
 /* CSS Document */
 
 /* Padrões de Fontes no projeto
-// Títulos: 'Ubuntu', sans-serif;
+// Títulos: 'Ubuntu';
 // Citações: 'Merriweather', serif;
 // Texto: 'Arial' ;
 // Ordinal / quimico: 'Calibri' ;
@@ -1083,7 +1083,7 @@ ul.li_sumarioMP ul {
     background: #000;
     border-radius: 0.5em 0.5em 0.5em 0;
     color: #fff;
-    font-family: 'Ubuntu', sans-serif;
+    font-family: 'Ubuntu';
     font-weight: bold;
     font-size: 1.1em;
     line-height: 1em;
@@ -1720,7 +1720,7 @@ ul.li_sumarioMP ul {
 .unid,
 .numUnid,
 .titUn {
-    font-family: 'Ubuntu', sans-serif;
+    font-family: 'Ubuntu';
     font-weight: bold;
 }
 
@@ -1766,7 +1766,7 @@ ul.li_sumarioMP ul {
 .titSec2,
 .titSec3,
 .titSec4 {
-    font-family: 'Ubuntu', sans-serif;
+    font-family: 'Ubuntu';
     margin: 0.7em 0 0.5em 0;
 
 }
@@ -1849,7 +1849,7 @@ ul.li_sumarioMP ul {
     background: #000;
     border-radius: 8px 8px 8px 0;
     color: #fff;
-    font-family: 'Ubuntu', sans-serif;
+    font-family: 'Ubuntu';
     font-weight: bold;
     padding: 0.1em 0.5em 0.2em 0.5em;
 }
@@ -2375,7 +2375,7 @@ div.balaoPonteira::after {
     background: #000;
     border-radius: 0.5em 0.5em 0.5em 0;
     color: #fff;
-    font-family: 'Ubuntu', sans-serif;
+    font-family: 'Ubuntu';
     font-weight: bold;
     font-size: 1.4em;
     line-height: 1em;
@@ -2388,7 +2388,7 @@ div.balaoPonteira::after {
     background: #000;
     border-radius: 0.5em 0.5em 0.5em 0;
     color: #fff;
-    font-family: 'Ubuntu', sans-serif;
+    font-family: 'Ubuntu';
     font-weight: bold;
     font-size: 1.6em;
     line-height: 1em;
@@ -2711,7 +2711,7 @@ p.li_intermediarioBoxItem::before {
     background: #000;
     border-radius: 8px 8px 0 8px;
     color: #fff;
-    font-family: 'Ubuntu', sans-serif;
+    font-family: 'Ubuntu';
     font-weight: bold;
     padding: 0.2em 0.5em;
 }
@@ -2771,7 +2771,7 @@ p.questaoLetraItem::before {
 }
 
 .numAtv {
-    font-family: 'Ubuntu', sans-serif;
+    font-family: 'Ubuntu';
     font-weight: bold;
     position: absolute;
     margin: 0 0 0 -28px;
@@ -3547,7 +3547,7 @@ blockquote.li_citacaoItemMP::before {
     background: #000;
     border-radius: 0.5em 0.5em 0.5em 0;
     color: #fff;
-    font-family: 'Ubuntu', sans-serif;
+    font-family: 'Ubuntu';
     font-weight: bold;
     font-size: 1.1em;
     line-height: 1em;
@@ -3572,7 +3572,7 @@ blockquote.li_citacaoItemMP::before {
     background: #000;
     border-radius: 0.5em 0em 0.5em 0;
     color: #fff;
-    font-family: 'Ubuntu', sans-serif;
+    font-family: 'Ubuntu';
     font-weight: bold;
     font-size: 1.2em;
     line-height: 1em;
@@ -3583,7 +3583,7 @@ blockquote.li_citacaoItemMP::before {
 }
 
 .livreUni {
-    font-family: 'Ubuntu', sans-serif;
+    font-family: 'Ubuntu';
     font-weight: bold;
     font-size: 1.1em;
     margin: 0 0 0.5em 0;
@@ -3825,7 +3825,7 @@ blockquote.li_citacaoItemMP::before {
     .unid,
     .numUnid,
     .titUn {
-        font-family: 'Ubuntu', sans-serif;
+        font-family: 'Ubuntu';
         font-weight: bold;
     }
 
