@@ -532,7 +532,7 @@
 		},
 
 		"Tecla Subtração": {
-			"prefix": "teclaSubtracao0LE",
+			"prefix": "teclaSubtracaoLE",
 			"body": [
 				"<img src=\"../resources/images/tecla_subtracao.svg\" alt=\"texto alternativo\" width=\"30\" height=\"24\" />"
 			],
