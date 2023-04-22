@@ -3223,6 +3223,7 @@ p.boxQuadroTeoria {
     border-radius: 0.5em 0.5em 0 0.5em;
     background: linear-gradient(to right, #BED8EA 30%, #F9F1AD 90%);
     font-family: 'Ubuntu';
+    font-weight: bold;
     font-size: 1.2em;
     padding: 0.2em 0.5em;
     width: max-content;
