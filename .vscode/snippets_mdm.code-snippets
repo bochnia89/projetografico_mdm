@@ -620,6 +620,42 @@
 		},
 
 
+		"Ícone resposta oral": {
+			"prefix": "iconeRespOralLE",
+			"body": [
+				"<img src=\"../resources/images/ico_oral.svg\" class=\"ico\" width=\"30\" height=\"30\" alt=\"Ícone resposta oral\" />"
+			],
+			"description": "Modelo de ícone resposta oral"
+		},
+
+
+		"Ícone em grupo": {
+			"prefix": "iconeEmGrupoLE",
+			"body": [
+				"<img src=\"../resources/images/ico_grupo.svg\" class=\"ico\" width=\"30\" height=\"30\" alt=\"Ícone resposta oral\" />"
+			],
+			"description": "Modelo de ícone em grupo"
+		},
+
+		"Ícone desafio": {
+			"prefix": "iconeDesafioLE",
+			"body": [
+				"<img src=\"../resources/images/ico_desafiomd.svg\" class=\"ico\" width=\"30\" height=\"30\" alt=\"Ícone resposta oral\" />"
+			],
+			"description": "Modelo de ícone desafios"
+		},
+
+
+		"Ícone instrumentos": {
+			"prefix": "iconeInstrumentosLE",
+			"body": [
+				"<img src=\"../resources/images/ico_instrumentos.svg\" class=\"ico\" width=\"30\" height=\"30\" alt=\"Ícone resposta oral\" />"
+			],
+			"description": "Modelo de ícone instrumentos"
+		},
+
+
+
 
 
 }

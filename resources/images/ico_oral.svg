@@ -1,31 +1,36 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="27.007" height="27.008" viewBox="0 0 27.007 27.008">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="19" height="19" viewBox="0 0 19 19">
   <defs>
     <clipPath id="clip-path">
-      <path id="Caminho_1" data-name="Caminho 1" d="M9.814,5A4.814,4.814,0,0,0,5,9.813v7.381a4.813,4.813,0,0,0,4.813,4.814h7.382a4.813,4.813,0,0,0,4.812-4.814V5Z" fill="none"/>
+      <rect id="Retângulo_810" data-name="Retângulo 810" width="19" height="19" transform="translate(66 91)" fill="none" stroke="#707070" stroke-width="1"/>
     </clipPath>
     <clipPath id="clip-path-2">
-      <rect id="Retângulo_2" data-name="Retângulo 2" width="17.007" height="17.009" transform="translate(5 4.999)" fill="none"/>
+      <path id="Caminho_1" data-name="Caminho 1" d="M9.814,5A4.814,4.814,0,0,0,5,9.813v7.381a4.813,4.813,0,0,0,4.813,4.814h7.382a4.813,4.813,0,0,0,4.812-4.814V5Z" fill="none"/>
     </clipPath>
     <clipPath id="clip-path-3">
+      <rect id="Retângulo_2" data-name="Retângulo 2" width="17.007" height="17.009" transform="translate(5 4.999)" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-4">
       <rect id="Retângulo_3" data-name="Retângulo 3" width="27.007" height="27.008" transform="translate(0 0)" fill="none"/>
     </clipPath>
   </defs>
-  <g id="ico_oral" transform="translate(0 0)">
-    <g id="Grupo_5" data-name="Grupo 5">
-      <g id="Grupo_4" data-name="Grupo 4" clip-path="url(#clip-path)">
-        <g id="Grupo_3" data-name="Grupo 3">
-          <g id="Grupo_2" data-name="Grupo 2">
-            <g id="Grupo_1" data-name="Grupo 1" clip-path="url(#clip-path-2)">
-              <image id="Retângulo_1" data-name="Retângulo 1" width="17.28" height="17.28" transform="translate(4.8 4.928)" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABMAAAATCAYAAAByUDbMAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAALQSURBVDhPrZQ9suQ0FEY/2d22+z0/2B+rYYoFELEBNkBEQE1CUVRNAgEkE5ISMq/btmRbupwrzWMFuOrrK8nS0f1zBzPT//VU2LcfX62o12FBRZ2s2vZ0n23vb9jVYfuQFVAXTOZzMVd+V/eOvBhYGENBpqEzrK9LV7ZPLi6dOHhDU8l6Rk92aA6nbn1GfhHPxOKoEwFEA4cdOnJwZDzg0WQA8oF2zcjH83no5Yx6yYl5arDRdt2qGnAqp4ZSqm4OYf508P4Atie97ADiqi/iQ88pal4Zr0uDPZVNtxw5mLAcKkcToOlEB6EAmoHMcdO8rWjR87bpy/ur5mXR/FhaAX7640/LdiXQaw3ytAsBXiTrFTIe4tV4RI1nYpx0LUkXwgykR+ysCvauwn797YM5oJUBIGBl6sZax74LoU14dUUOHYB2wHrkIK9oeYP9/uE92aJuhQYA5BADZqVTd5j6/QCId+RnBDigPp9VFdR+G+zjLz9YriC8K0BzkJ2kExt2At65yoERELkbsBdsyJkzxbeJexvsr/ff8wsokytWbadps+cLWMp4hhcRYCRXCeiW1J+nhLxtHUafN9jfP35nNUQAuQA8AB54R0oCkN5DxXaRPLnwUmkHlr0ZKrAAa02b7hrjHffvmtZXTcs/GtG0fNK4PXRZ7uofiF4K9JSWVYZ3tu4qjyh7JAVUYZe4VNDAwev6iXCWutbTS5cVmDckTeqgQJ8Z4dq2N6DbFbt8hl39dj9IR/cc6rFXn7Pe0aB91QYwShWQJAdGQnXY4sCjwUTJRbk7bu0TAuiedAB8LNYFyBwGxPPlICN/LiUK8QYzeqi67NAtEoofwvo8kQ/kViTeHERFXXJLYVyi4g3mN7xtdLBXCvuf3ubVAnEdmWpTTb5bl+38p3lrrN989TWfQGtWeqy1Bb220yI4VNcSDbCjOscDH/uZk39q/zxNP/8LqueN54HsjvcAAAAASUVORK5CYII="/>
+  <g id="ico_oral" transform="translate(-66 -91)" clip-path="url(#clip-path)">
+    <g id="ico_oral-2" data-name="ico_oral" transform="translate(62 87)">
+      <g id="Grupo_5" data-name="Grupo 5">
+        <g id="Grupo_4" data-name="Grupo 4" clip-path="url(#clip-path-2)">
+          <g id="Grupo_3" data-name="Grupo 3">
+            <g id="Grupo_2" data-name="Grupo 2">
+              <g id="Grupo_1" data-name="Grupo 1" clip-path="url(#clip-path-3)">
+                <image id="Retângulo_1" data-name="Retângulo 1" width="17.28" height="17.28" transform="translate(4.8 4.928)" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABMAAAATCAYAAAByUDbMAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAALQSURBVDhPrZQ9suQ0FEY/2d22+z0/2B+rYYoFELEBNkBEQE1CUVRNAgEkE5ISMq/btmRbupwrzWMFuOrrK8nS0f1zBzPT//VU2LcfX62o12FBRZ2s2vZ0n23vb9jVYfuQFVAXTOZzMVd+V/eOvBhYGENBpqEzrK9LV7ZPLi6dOHhDU8l6Rk92aA6nbn1GfhHPxOKoEwFEA4cdOnJwZDzg0WQA8oF2zcjH83no5Yx6yYl5arDRdt2qGnAqp4ZSqm4OYf508P4Atie97ADiqi/iQ88pal4Zr0uDPZVNtxw5mLAcKkcToOlEB6EAmoHMcdO8rWjR87bpy/ur5mXR/FhaAX7640/LdiXQaw3ytAsBXiTrFTIe4tV4RI1nYpx0LUkXwgykR+ysCvauwn797YM5oJUBIGBl6sZax74LoU14dUUOHYB2wHrkIK9oeYP9/uE92aJuhQYA5BADZqVTd5j6/QCId+RnBDigPp9VFdR+G+zjLz9YriC8K0BzkJ2kExt2At65yoERELkbsBdsyJkzxbeJexvsr/ff8wsokytWbadps+cLWMp4hhcRYCRXCeiW1J+nhLxtHUafN9jfP35nNUQAuQA8AB54R0oCkN5DxXaRPLnwUmkHlr0ZKrAAa02b7hrjHffvmtZXTcs/GtG0fNK4PXRZ7uofiF4K9JSWVYZ3tu4qjyh7JAVUYZe4VNDAwev6iXCWutbTS5cVmDckTeqgQJ8Z4dq2N6DbFbt8hl39dj9IR/cc6rFXn7Pe0aB91QYwShWQJAdGQnXY4sCjwUTJRbk7bu0TAuiedAB8LNYFyBwGxPPlICN/LiUK8QYzeqi67NAtEoofwvo8kQ/kViTeHERFXXJLYVyi4g3mN7xtdLBXCvuf3ubVAnEdmWpTTb5bl+38p3lrrN989TWfQGtWeqy1Bb220yI4VNcSDbCjOscDH/uZk39q/zxNP/8LqueN54HsjvcAAAAASUVORK5CYII="/>
+              </g>
             </g>
           </g>
         </g>
       </g>
-    </g>
-    <g id="Grupo_7" data-name="Grupo 7">
-      <g id="Grupo_6" data-name="Grupo 6" clip-path="url(#clip-path-3)">
-        <path id="Caminho_2" data-name="Caminho 2" d="M16.963,9.408h-6.92a2.436,2.436,0,0,0-2.429,2.429v2.805a2.436,2.436,0,0,0,2.429,2.429h6.92a2.437,2.437,0,0,0,2.43-2.429V11.837a2.437,2.437,0,0,0-2.43-2.429m-6.224,4.618a.787.787,0,1,1,.786-.786.786.786,0,0,1-.786.786m2.764,0a.787.787,0,1,1,.787-.786.786.786,0,0,1-.787.786m2.765,0a.787.787,0,1,1,.786-.786.787.787,0,0,1-.786.786" fill="#06141a"/>
-        <path id="Caminho_3" data-name="Caminho 3" d="M16.959,9.4H10.028a2.441,2.441,0,0,0-2.434,2.434v2.809A2.439,2.439,0,0,0,9.98,17.067l0,.074v2.395l2.546-2.465h4.431a2.441,2.441,0,0,0,2.434-2.433V11.829A2.441,2.441,0,0,0,16.959,9.4m-6.235,4.626a.788.788,0,1,1,.788-.788.787.787,0,0,1-.788.788m2.77,0a.788.788,0,1,1,.788-.788.788.788,0,0,1-.788.788m2.769,0a.788.788,0,1,1,.788-.788.788.788,0,0,1-.788.788" fill="#06141a"/>
+      <g id="Grupo_7" data-name="Grupo 7">
+        <g id="Grupo_6" data-name="Grupo 6" clip-path="url(#clip-path-4)">
+          <path id="Caminho_2" data-name="Caminho 2" d="M16.963,9.408h-6.92a2.436,2.436,0,0,0-2.429,2.429v2.805a2.436,2.436,0,0,0,2.429,2.429h6.92a2.437,2.437,0,0,0,2.43-2.429V11.837a2.437,2.437,0,0,0-2.43-2.429m-6.224,4.618a.787.787,0,1,1,.786-.786.786.786,0,0,1-.786.786m2.764,0a.787.787,0,1,1,.787-.786.786.786,0,0,1-.787.786m2.765,0a.787.787,0,1,1,.786-.786.787.787,0,0,1-.786.786" fill="#06141a"/>
+          <path id="Caminho_3" data-name="Caminho 3" d="M16.959,9.4H10.028a2.441,2.441,0,0,0-2.434,2.434v2.809A2.439,2.439,0,0,0,9.98,17.067l0,.074v2.395l2.546-2.465h4.431a2.441,2.441,0,0,0,2.434-2.433V11.829A2.441,2.441,0,0,0,16.959,9.4m-6.235,4.626a.788.788,0,1,1,.788-.788.787.787,0,0,1-.788.788m2.77,0a.788.788,0,1,1,.788-.788.788.788,0,0,1-.788.788m2.769,0a.788.788,0,1,1,.788-.788.788.788,0,0,1-.788.788" fill="#06141a"/>
+        </g>
       </g>
     </g>
   </g>
