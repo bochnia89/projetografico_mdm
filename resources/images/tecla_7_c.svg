@@ -44,6 +44,6 @@
         <path id="Caminho_251" data-name="Caminho 251" d="M17.318,16.427H3.085A2.844,2.844,0,0,1,.25,13.592V10.171A9.951,9.951,0,0,1,10.171.25h7.147a2.844,2.844,0,0,1,2.835,2.835V13.592A2.844,2.844,0,0,1,17.318,16.427Z" fill="none" stroke="#161615" stroke-miterlimit="10" stroke-width="0.5"/>
       </g>
     </g>
-    <text id="_7" data-name="7" transform="translate(8.16 10.636)" fill="#161615" font-size="8.005" font-family="JoannaSansNova-Regular, Joanna Sans Nova"><tspan x="0" y="0">7</tspan></text>
+    <path id="Caminho_539" data-name="Caminho 539" d="M3.859-5.452V-5.54H.232v.52H3.066L.849-.04l.616.112Z" transform="translate(8.16 10.636)" fill="#161615"/>
   </g>
 </svg>

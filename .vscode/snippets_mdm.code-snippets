@@ -412,8 +412,140 @@
 			"description": "Modelo de box o tema fundo"
 		},
 
+		"Objeto digital": {
+			"prefix": "objetoDigital",
+			"body": [
+				"<p class=\"objetoEnriqueci\">",
+                "<img class=\"ico\" src=\"../resources/images/ico_objeto_digital.svg\" alt=\"texto alternativo\" width=\"24\" height=\"24\" /> Objeto digital</p>"
+			],
+			"description": "Modelo de objeto digital"
+		},
 
 
+		"Fim seção MPU": {
+			"prefix": "fimSecaoMPU",
+			"body": [
+				"<hr class=\"fimSecaoMp\" />",
+			],
+			"description": "Modelo delinha fim de seção"
+		},
+
+		"Tecla 0": {
+			"prefix": "tecla0LE",
+			"body": [
+				"<img src=\"../resources/images/tecla_0.svg\" alt=\"texto alternativo\" width=\"30\" height=\"24\" />"
+			],
+			"description": "Modelo de tecla 0"
+		},
+
+		"Tecla 1": {
+			"prefix": "tecla1LE",
+			"body": [
+				"<img src=\"../resources/images/tecla_1.svg\" alt=\"texto alternativo\" width=\"30\" height=\"24\" />"
+			],
+			"description": "Modelo de tecla 1"
+		},
+
+
+		"Tecla 2": {
+			"prefix": "tecla2LE",
+			"body": [
+				"<img src=\"../resources/images/tecla_2.svg\" alt=\"texto alternativo\" width=\"30\" height=\"24\" />"
+			],
+			"description": "Modelo de tecla 2"
+		},
+
+		"Tecla 3": {
+			"prefix": "tecla3LE",
+			"body": [
+				"<img src=\"../resources/images/tecla_3.svg\" alt=\"texto alternativo\" width=\"30\" height=\"24\" />"
+			],
+			"description": "Modelo de tecla 3"
+		},
+
+		"Tecla 4": {
+			"prefix": "tecla4LE",
+			"body": [
+				"<img src=\"../resources/images/tecla_4.svg\" alt=\"texto alternativo\" width=\"30\" height=\"24\" />"
+			],
+			"description": "Modelo de tecla 4"
+		},
+
+
+		"Tecla 5": {
+			"prefix": "tecla5LE",
+			"body": [
+				"<img src=\"../resources/images/tecla_5.svg\" alt=\"texto alternativo\" width=\"30\" height=\"24\" />"
+			],
+			"description": "Modelo de tecla 5"
+		},
+
+
+		"Tecla 6": {
+			"prefix": "tecla6LE",
+			"body": [
+				"<img src=\"../resources/images/tecla_6.svg\" alt=\"texto alternativo\" width=\"30\" height=\"24\" />"
+			],
+			"description": "Modelo de tecla 6"
+		},
+
+
+		"Tecla 7": {
+			"prefix": "tecla7LE",
+			"body": [
+				"<img src=\"../resources/images/tecla_7.svg\" alt=\"texto alternativo\" width=\"30\" height=\"24\" />"
+			],
+			"description": "Modelo de tecla 7"
+		},
+
+
+		"Tecla 8": {
+			"prefix": "tecla8LE",
+			"body": [
+				"<img src=\"../resources/images/tecla_8.svg\" alt=\"texto alternativo\" width=\"30\" height=\"24\" />"
+			],
+			"description": "Modelo de tecla 8"
+		},
+
+		"Tecla 9": {	
+			"prefix": "tecla9LE",
+			"body": [
+				"<img src=\"../resources/images/tecla_9.svg\" alt=\"texto alternativo\" width=\"30\" height=\"24\" />"
+			],
+			"description": "Modelo de tecla 9"
+		},
+
+		"Tecla multimplicação": {	
+			"prefix": "teclaMultiplicacaoLE",
+			"body": [
+				"<img src=\"../resources/images/tecla_mult.svg\" alt=\"texto alternativo\" width=\"30\" height=\"24\" />"
+			],
+			"description": "Modelo de teclamultimplicação"
+		},
+
+		"Tecla Adição": {
+			"prefix": "teclaAdicaoLE",
+			"body": [
+				"<img src=\"../resources/images/tecla_adicao.svg\" alt=\"texto alternativo\" width=\"30\" height=\"53\" />"
+			],
+			"description": "Modelo de tecla adição"
+		},
+
+		"Tecla Subtração": {
+			"prefix": "teclaSubtracao0LE",
+			"body": [
+				"<img src=\"../resources/images/tecla_subtracao.svg\" alt=\"texto alternativo\" width=\"30\" height=\"24\" />"
+			],
+			"description": "Modelo de tecla subtração"
+		},
+
+		"Tecla Divisão": {
+			"prefix": "teclaDivisaoLE",
+			"body": [
+				"<img src=\"../resources/images/tecla_divisao.svg\" alt=\"texto alternativo\" width=\"30\" height=\"24\" />"
+			],
+			"description": "Modelo de tecla Divisão"
+		},
 
 
 

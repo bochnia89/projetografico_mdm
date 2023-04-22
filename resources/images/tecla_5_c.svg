@@ -44,6 +44,6 @@
         <rect id="Retângulo_319" data-name="Retângulo 319" width="19.903" height="16.177" rx="2.835" transform="translate(0.25 0.25)" fill="none" stroke="#161615" stroke-miterlimit="10" stroke-width="0.5"/>
       </g>
     </g>
-    <text id="_5" data-name="5" transform="translate(8.12 10.636)" fill="#161615" font-size="8.005" font-family="JoannaSansNova-Regular, Joanna Sans Nova"><tspan x="0" y="0">5</tspan></text>
+    <path id="Caminho_541" data-name="Caminho 541" d="M.336-.3A2.818,2.818,0,0,0,1.825.08,1.631,1.631,0,0,0,3.61-1.585c0-.809-.424-1.633-2.217-1.713l.056-1.721H3.41L3.5-5.54H.9l-.088,2.7c1.457.024,2.153.456,2.153,1.257A1.067,1.067,0,0,1,1.833-.44,2.649,2.649,0,0,1,.592-.8Z" transform="translate(8.12 10.636)" fill="#161615"/>
   </g>
 </svg>

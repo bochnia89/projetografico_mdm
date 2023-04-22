@@ -1,7 +1,7 @@
 <svg id="tecla_1_2_c" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="20.403" height="16.677" viewBox="0 0 20.403 16.677">
   <defs>
     <clipPath id="clip-path">
-      <rect id="Retângulo_284" data-name="Retângulo 284" width="20.403" height="16.677" fill="none"/>
+      <path id="Caminho_545" data-name="Caminho 545" d="M0,0H20.4V16.677H0Z" fill="none"/>
     </clipPath>
     <clipPath id="clip-path-2">
       <rect id="Retângulo_283" data-name="Retângulo 283" width="20.403" height="16.677" transform="translate(0 0)" fill="none"/>
@@ -19,7 +19,7 @@
       <image width="21" height="17" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABUAAAARCAYAAAAyhueAAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAETSURBVDhPrZOJEoMgDETxQMfP9qs9QFoX3Bolbe3UzOwEFF6WiMVjDXNv9OU2uDX+guKQIQTjvY9yzsX88/EBOQsIgekvQ7F5WZaDsFVCoaIorkFxJEBwPAnVnFZV9RmKV7JX1BmcEAAbU9f1eyiB8zy/wHQqwQlKsDHWNjpUAgGSYOYQAE19JhRq21a/p9IZwdM0bRrjs3EcVw1xjvEwDDFjTQbFcVCdUOnYuXkdo9AUnwGQ4AlGZVDZKzrG3HtAMQc4AVkM6+S+AxQ9oVMslK69J3hvCd4pn0SHUnt15OSGrjQY4wAlLIfv7lORsO3QI+spgZprjr9FBi3LEr9azNbaqKaxuH9rbvBvbyv16LrOPAH/jRRYYShVQQAAAABJRU5ErkJggg=="/>
     </pattern>
   </defs>
-  <g id="Grupo_539" data-name="Grupo 539" clip-path="url(#clip-path)">
+  <g id="Grupo_de_máscara_1" data-name="Grupo de máscara 1" clip-path="url(#clip-path)">
     <g id="Grupo_538" data-name="Grupo 538">
       <g id="Grupo_537" data-name="Grupo 537" clip-path="url(#clip-path-2)">
         <path id="Caminho_210" data-name="Caminho 210" d="M17.318,16.427H3.085A2.844,2.844,0,0,1,.25,13.592V3.085A2.844,2.844,0,0,1,3.085.25H17.318a2.844,2.844,0,0,1,2.835,2.835V13.592a2.844,2.844,0,0,1-2.835,2.835" fill="#c9ca00"/>
@@ -44,6 +44,6 @@
         <rect id="Retângulo_282" data-name="Retângulo 282" width="19.903" height="16.177" rx="2.835" transform="translate(0.25 0.25)" fill="none" stroke="#161615" stroke-miterlimit="10" stroke-width="0.5"/>
       </g>
     </g>
-    <text id="_1" data-name="1" transform="translate(8.816 10.636)" fill="#161615" font-size="8.005" font-family="JoannaSansNova-Regular, Joanna Sans Nova"><tspan x="0" y="0">1</tspan></text>
+    <path id="Caminho_546" data-name="Caminho 546" d="M2.121,0V-5.588h-.04L.112-4.611.3-4.139l1.217-.624V0Z" transform="translate(8.816 10.636)" fill="#161615"/>
   </g>
 </svg>
