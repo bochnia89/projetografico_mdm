@@ -3770,21 +3770,45 @@ blockquote.li_citacaoItemMP::before {
 
 /* CUBO MÁGICO */
 
-.quadradoMagico {
+.quadradoMagicoMP, .quadradoMagicoLE {
     display: grid;
     grid-template-columns: 50px 50px 50px;
     grid-template-rows:  50px 50px 50px;
     margin: 1em 0;
 }
-.quadradoMagico4 {
+.quadradoMagicoMP4, .quadradoMagicoLE4 {
     display: grid;
     grid-template-columns: 50px 50px 50px 50px;
-    grid-template-rows:  50px 50px 50px 50px;
     margin: 1em 0;
 }
-.quadradoMagico p,
-.quadradoMagico4 p{
+.quadradoMagicoMP5, .quadradoMagicoLE5 {
+    display: grid;
+    grid-template-columns: 50px 50px 50px 50px 50px;
+    margin: 1em 0;
+}
+.quadradoMagicoMP6, .quadradoMagicoLE6 {
+    display: grid;
+    grid-template-columns: 50px 50px 50px 50px 50px 50px;
+   
+    margin: 1em 0;
+}
+.quadradoMagicoMP p,
+.quadradoMagicoMP4 p,
+.quadradoMagicoMP5 p,
+.quadradoMagicoMP6 p{
     border: 1px solid #02808e;
+    padding: 0.5em;
+    text-align: center;    
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.quadradoMagicoLE p,
+.quadradoMagicoLE4 p,
+.quadradoMagicoLE5 p,
+.quadradoMagicoLE6 p{
+    border: 1px solid #F8B96E;
     padding: 0.5em;
     text-align: center;
     
@@ -3793,6 +3817,37 @@ blockquote.li_citacaoItemMP::before {
     justify-content: center;
 }
 
+.listaNumeros {
+    border-radius: 1em 0 1em 0;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+    align-items: center;
+    width: 300px;
+    border: 2px solid #F8B96E;
+    padding: 0.5em;
+}
+.listaNumeros li {
+    padding: 0.5em;
+}
+
+
+.listaNumeros2 {
+    border-radius: 1em 0 1em 0;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+    align-items: center;
+
+   
+    padding: 0.5em;
+}
+.listaNumeros2 li {
+    padding: 0.5em;
+    border: 1px solid #F8B96E;
+    min-width: 50px;
+    text-align: center;
+}
 
 /*MEDIA QUERY*/
 /*👉Versão Mobile Cel👈*/
