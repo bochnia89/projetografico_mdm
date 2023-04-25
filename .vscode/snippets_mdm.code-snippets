@@ -654,6 +654,42 @@
 			"description": "Modelo de ícone instrumentos"
 		},
 
+		"Moeda 5 centavos": {
+			"prefix": "moeda5LE",
+			"body": [
+				"<img src=\"../resources/images/moedas/moeda_5centavos.png\" alt=\"texto alternativo\" width=\"112\"  height=\"111\" />"
+			],
+			"description": "Modelo de moeda 5 centavos"
+		},
+
+		"Moeda 10 centavos": {
+			"prefix": "moeda10LE",
+			"body": [
+				"<img src=\"../resources/images/moedas/moeda_10centavos.png\" alt=\"texto alternativo\" width=\"94\"  height=\"96\" />"
+			],
+			"description": "Modelo de moeda 10 centavos"
+		},
+
+		"Moeda 25 centavos": {
+			"prefix": "moeda25LE",
+			"body": [
+				"<img src=\"../resources/images/moedas/moeda_25centavos.png\" alt=\"texto alternativo\" width=\"116\"  height=\"119\" />"
+			],
+			"description": "Modelo de moeda 25 centavos"
+		},
+
+		"Moeda 50 centavos": {
+			"prefix": "moeda50LE",
+			"body": [
+				"<img src=\"../resources/images/moedas/moeda_50centavos.png\" alt=\"texto alternativo\" width=\"112\"  height=\"111\" />"
+			],
+			"description": "Modelo de moeda 50 centavos"
+		},
+
+
+
+
+
 
 
 
