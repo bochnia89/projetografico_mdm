@@ -1455,6 +1455,23 @@ ul.li_sumarioMP ul {
     padding: 0.3em;
 }
 
+/* REFERÊNCIAS MANUAL GERAL */
+
+.refsMP{
+    margin: 1em 0 0.3em 1.4em;
+    text-indent: -1.4em;
+    text-align: justify;
+    hyphens: none;
+}
+.refsMP::first-line{
+    
+}
+.refsComentsMP {
+    margin: 0.3em 0 1em 1.4em;
+    text-align: justify;
+    hyphens: none;
+}
+
 /*👉PÁGINAS INICIAIS👈*/
 .boxApresentConheLE {
     background: linear-gradient(to bottom right, #D9ECF1 15%, #FBE7D9 50%, #D3CDE7 90%);
@@ -2337,7 +2354,9 @@ div.balaoPonteira::after {
 }
 
 /* BOX MAPA */
-.boxMapa {
+.boxMapa,
+.boxMapa2,
+.boxMapa3 {
     margin: 1em 0;
 }
 
@@ -2349,7 +2368,9 @@ div.balaoPonteira::after {
     width: max-content;
 }
 
-.boxMapa figure {
+.boxMapa figure,
+.boxMapa2 figure,
+.boxMapa3 figure {
     margin: 0.2em 0 0 0;
 
 }
@@ -2357,6 +2378,16 @@ div.balaoPonteira::after {
 .boxMapa figure img {
     border: 1px solid #000;
     border-radius: 0 1em 1em 1em;
+}
+
+.boxMapa2 figure img {
+    border: 1px solid #000;
+    border-radius: 0;
+}
+
+.boxMapa3 figure img {
+    border: 0px solid transparent;
+    border-radius: 0;
 }
 
 
@@ -2546,6 +2577,9 @@ p.li_livreItem::before {
     height: 23px;
     text-align: center;
     margin: 0 0 0 10px;
+}
+.marcador2+.col2s{
+    margin-top: 1.5em !important;
 }
 
 ul.li_item {
@@ -3755,6 +3789,13 @@ blockquote.li_citacaoItemMP::before {
     width: max-content;
 }
 
+.fundoCorBranco {
+    background: #fff;
+    border-radius: 0 1em 1em 1em;
+    padding: 0.5em 1em;
+    width: max-content;
+}
+
 .objetoEnriqueci {
     background: #097F3E;
     color: #fff;
@@ -3848,6 +3889,43 @@ blockquote.li_citacaoItemMP::before {
     min-width: 50px;
     text-align: center;
 }
+
+/* PAPELARIA */
+/* Post it */
+.postitAmarelo {
+    background: #FFFBDB;
+    box-shadow: -5px 5px 2px #FFF7B2;
+    padding: 2em 2em 1em 2em ;
+    margin: 2em 0 1em 2em;
+    position: relative;
+    width: max-content;
+    max-width: 300px;
+}
+.postitAmarelo::before{
+    background: #D3CDE7;
+    box-shadow: 1px 1px 3px rgba(0, 0, 0, 0.1);
+    content: '';
+    width: 90px;
+    height: 25px;
+    position:absolute;
+  
+    margin: -30px 0 0 -60px;
+    transform: rotate(-30deg);
+}
+
+.fracao2>.numAtv {
+    margin: 0.5em 0 0 -28px;
+}
+p.fracao::before{
+    content: '•';
+    color: #000;
+    width: 10px;
+    height: 10px;
+    position: absolute;
+    margin: 0.4em 0 0 -15px !important;
+}
+
+
 
 /*MEDIA QUERY*/
 /*👉Versão Mobile Cel👈*/
