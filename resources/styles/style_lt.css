@@ -1475,7 +1475,6 @@ ul.li_sumarioMP ul {
 /*👉PÁGINAS INICIAIS👈*/
 .boxApresentConheLE {
     background: linear-gradient(to bottom right, #D9ECF1 15%, #FBE7D9 50%, #D3CDE7 90%);
-
 }
 
 .secApres {
@@ -2185,6 +2184,7 @@ ul.boxPalavra li:first-child::before {
 .gloss {
     margin: 1em 0;
     display: flex;
+    justify-content: flex-start;
 }
 
 .gloss dfn {
@@ -2200,8 +2200,15 @@ ul.boxPalavra li:first-child::before {
 
 .gloss dt {
     margin: 4px 0 0 0;
+    width: max-content;
 }
-
+.gloss dt dfn {
+    width: max-content;
+    display: inline-block;
+}
+.gloss dd{
+    padding:0.6em 0 0 0;
+}
 .vocabulario {
     border-bottom: 1px solid #FF6A3E;
 }
@@ -3816,22 +3823,26 @@ blockquote.li_citacaoItemMP::before {
     grid-template-columns: 50px 50px 50px;
     grid-template-rows:  50px 50px 50px;
     margin: 1em 0;
+    width: max-content;
 }
 .quadradoMagicoMP4, .quadradoMagicoLE4 {
     display: grid;
     grid-template-columns: 50px 50px 50px 50px;
     margin: 1em 0;
+    width: max-content;
 }
 .quadradoMagicoMP5, .quadradoMagicoLE5 {
     display: grid;
     grid-template-columns: 50px 50px 50px 50px 50px;
     margin: 1em 0;
+    width: max-content;
 }
 .quadradoMagicoMP6, .quadradoMagicoLE6 {
     display: grid;
     grid-template-columns: 50px 50px 50px 50px 50px 50px;
    
     margin: 1em 0;
+    width: max-content;
 }
 .quadradoMagicoMP p,
 .quadradoMagicoMP4 p,
