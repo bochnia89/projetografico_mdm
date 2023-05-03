@@ -3618,7 +3618,124 @@ blockquote.li_citacaoItemMP::before {
 
 /*👉RESOLUÇÕES (Mat)👈*/
 
-/*👉RESPOSTAS (Mat)👈*/
+/*👉RESPOSTAS / GABARITO (Mat)👈*/
+
+.secResGab {
+}
+.secqueestudei {
+    background: #000;
+    border-radius: 0.5em 0.5em 0.5em 0;
+    color: #fff;
+    font-family: 'Ubuntu';
+    font-weight: bold;
+    font-size: 1.1em;
+    line-height: 1em;
+    padding: 0.2em 0.5em;
+    width: max-content;
+    max-width: 100%;
+    margin: 1em 0 0 2em;
+}
+
+.secqueestudei::before {
+    background: url(../images/pv_oqueeu.svg) top left no-repeat;
+    background-size: 100%;
+    content: '';
+    position: absolute;
+    margin: 0 0 0 -42px;
+    width: 30px;
+    height: 30px;
+    z-index: 5;
+}
+.unidGab {
+}
+.livreUni {
+}
+
+.atvnumletragab, .atvnumletragab3, .atvgab,
+.atvgab3  {
+    margin: 1em 0 0.5em 36px;
+}
+.letragab {
+
+    font-family: 'Ubuntu';
+    font-weight: bold;
+    position: absolute;
+    width: 34px;
+    height: 30px;
+    margin: 0 0 0 -38px;
+    text-align: right;
+}
+
+.fracaoGab {
+    margin: 0.4em 0 0 -38px !important;
+
+}
+
+.atvletragab, .atvletragab3 {
+    margin: 0.5em 0 0.5em 36px;
+}
+.atvletragab+figure,
+.atvletragab3+figure, .atvnumletragab+figure,
+.atvnumletragab3+figure, .atvnumletragab+table,
+.atvletragab+table{
+    margin: 0.5em 0 0.5em 36px;
+}
+.atvgab+table{
+    margin: 0.5em 0 0.5em 36px;
+}
+
+
+.unidgab {
+}
+.secatvgab {
+}
+.atvnumletraitemgab {
+    margin: 1em 0 0.5em 36px;
+}
+.atvnumitemgab {
+    margin: 1em 0 0.5em 36px;
+}
+.atvitemgab {
+    margin: 0.5em 0 0.5em 48px;
+}
+.atvitemgab::before{
+    position: absolute;
+    content: '•';
+    width: 10px;
+    height: 10px;
+    margin: 0 0 0 -12px;
+}
+.atvletraitemgab  {
+    margin: 0.5em 0 0.5em 36px;
+}
+.atvnumletraitemcontgab, .atvletraitemcontgab {
+    margin: 0.5em 0 0.5em 72px;
+}
+.atvnumletraitemcontgab::before, .atvletraitemcontgab::before{
+    position: absolute;
+    content: '•';
+    width: 10px;
+    height: 10px;
+    margin: 0 0 0 -12px;
+}
+
+.ativletracontgab {
+    margin: 0.5em 0 0.5em 60px;
+}
+.atvgabcont {
+    margin: 0.5em 0 0.5em 38px;
+}
+.atvnumletragab3 {
+}
+.atvletragab3 {
+}
+.atvgab3 {
+}
+.titunigab {
+}
+.atvletraitemcontgab {
+}
+
 
 .secResGab {
     background: #000;
@@ -3668,7 +3785,7 @@ blockquote.li_citacaoItemMP::before {
     z-index: 5;
 }
 
-.unidGab {
+.unidgab {
     background: #000;
     border-radius: 0.5em 0em 0.5em 0;
     color: #fff;
@@ -3682,14 +3799,14 @@ blockquote.li_citacaoItemMP::before {
     margin: 1em 0 0 0;
 }
 
-.livreUni {
+.livreUni, .titunigab {
     font-family: 'Ubuntu';
     font-weight: bold;
     font-size: 1.1em;
     margin: 0 0 0.5em 0;
 }
 
-.secAtvGab {
+.secatvgab {
     background: #000;
     border-radius: 0 0.5em 0 0.5em;
     color: #fff;
@@ -3703,7 +3820,7 @@ blockquote.li_citacaoItemMP::before {
 }
 
 
-.secAtvGab::after {
+.secatvgab::after {
     content: '';
     background: url(../images/pv_atividades02.svg)top left no-repeat;
     background-size: 100%;
@@ -4208,6 +4325,16 @@ margin: 0 0 0 0;
 
 
     /*👉ESTRUTURA PAGE LE 👈*/
+    /* BOX DICA */
+.boxDica,
+.boxCuidado,
+.boxAtencao {
+    min-width: 250px;
+    width: 80%;
+    max-width: 80%;
+    margin: 1em 0;
+}
+
 
     /*👉ESTRUTURA PAGE MPU👈*/
 
@@ -4215,7 +4342,7 @@ margin: 0 0 0 0;
 
     /*👉RESOLUÇÕES (Mat)👈*/
 
-    /*👉RESPOSTAS (Mat)👈*/
+    /*👉RESPOSTAS / GABARITO (Mat)👈*/
 
     /*👉GLOSSÁRIO (Cie)👈*/
 
