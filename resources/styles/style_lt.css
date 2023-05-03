@@ -2266,13 +2266,14 @@ div.fichas {
     padding: 0.2em 0.5em;
     margin: 1em 0;
     min-width: 46px;
-    max-width: 100%;
+    max-width: 95%;
     text-align: center;
 }
 
 .fichas .livre {
     margin: 0;
     text-align: center;
+    max-width: 100%;
 }
 
 .fichasMarcador {
@@ -2365,14 +2366,38 @@ div.balaoPonteira::after {
 .boxMapa2,
 .boxMapa3 {
     margin: 1em 0;
+    width: max-content;
 }
 
+.mapaMarcador{
+    margin:3em 0 1em 0 !important;
+}
 .titMapGraf {
-    border-top: 1px solid #000;
-    border-left: 1px solid #000;
+    border-top: 2px solid #000;
+    border-left: 2px solid #000;
     border-radius: 1em 0em 0 0;
     padding: 0.4em 0.5em 0 0.5em;
     width: max-content;
+    max-width: 60%;
+    font-family: 'Ubuntu';
+    font-size: 1.1em;
+    font-weight: 600;
+}
+
+.boxMapa .marcador, .boxMapa3 .marcador, .boxMapa2 .marcador{
+    position: absolute;
+    background: #000;
+    border-radius: 6px 6px 0 6px;
+    color: #fff;
+    font-family: 'Ubuntu';
+    font-weight: bold;
+    padding: 0 3px 4px 3px;
+    width: 35px;
+    height: 26px;
+    text-align: center;
+    margin: -2.3em 0 0 0;
+    
+
 }
 
 .boxMapa figure,
@@ -3927,6 +3952,9 @@ blockquote.li_citacaoItemMP::before {
 .fracao2>.numAtv {
     margin: 0.5em 0 0 -28px;
 }
+.fracao3>.letra  {
+    margin: 0.5em 0 0 -36px;
+}
 p.fracao::before{
     content: '•';
     color: #000;
@@ -3936,6 +3964,100 @@ p.fracao::before{
     margin: 0.4em 0 0 -15px !important;
 }
 
+/* papeleta */
+.papeletaClip1{
+    border: 15px solid #BDE2E8;
+    padding: 1em;
+    background: #fff;
+    margin: 1em 0;
+    width: max-content;
+    max-width: 98%;
+}
+.papeletaClip2, .papeletaClip3{
+    border: 15px solid #FEEAD3;
+    padding: 1em;
+    background: #fff;
+    margin: 1em 0;
+    width: max-content;
+    max-width: 98%;
+}
+.papeletaClip1::before, .papeletaClip2::before{
+    background: url(../images/chip_roxo.svg) top left no-repeat;
+    background-size: 100%;
+    content: '';
+    width: 16px;
+    height: 30px;
+    position: absolute;
+    margin:  -40px 0 0 0;
+}
+
+/*👉PAPELARIA👈*/
+.boxJornal {
+    background: #DCDDDF;
+    padding: 1em;
+    margin: 1em;
+   
+}
+.citTit1Jor, .citTit1Jor .vocabulario {
+    font-family: 'Merriweather', serif;
+    font-weight: bold;
+    font-size: 1.2em;
+    text-align: center;
+    margin: 0.5em 0;
+}
+.citTit2Jor, .citTit2Jor .vocabulario{
+    font-weight: 500;
+    font-size: 1.1em;
+    text-align: center;
+    margin: 0.5em 0;
+    font-family: 'Merriweather', serif;
+}
+.citOlhoJor,  .citOlhoJor .vocabulario{
+    font-style: italic;
+    text-align: center;
+    margin: 0.5em 0;
+    font-family: 'Merriweather', serif;
+}
+.citacaoJor, .citacaoJor .vocabulario{
+    text-align: justify;
+    hyphens: none;
+    text-indent: 1.5em;
+    margin: 0.5em 0;
+    font-family: 'Merriweather', serif;
+}
+
+.textoDestaquePalavraJor {
+    border: 2px solid #000;
+    border-radius: 0.5em 0.5em 0.5em 0;
+    font-family: 'Ubuntu';
+    font-size: 1.1em;
+    font-weight: 500;
+    padding: 0.1em 0.5em 0 0.5em;
+    width: max-content;
+    max-width: 100%;
+    margin: 1em 0 -0.9em 1em;
+}
+.marcadorJornal {
+    margin: 1em 0;
+}
+
+.marcadorJornal .marcador {
+    background: #000;
+border-radius: 6px 6px 0 6px;
+display: block;
+color: #fff;
+font-family: 'Ubuntu';
+font-weight: bold;
+position: static;
+padding: 0px 0px 0 3px;
+width: 28px;
+height: 23px;
+text-align: center;
+margin: 0 0 0 0;
+}
+.marcadorJornal .boxJornal {
+    margin: 0 0 0 0;
+}
 
 
 /*MEDIA QUERY*/
