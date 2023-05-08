@@ -3618,11 +3618,125 @@ blockquote.li_citacaoItemMP::before {
 
 /*👉RESOLUÇÕES (Mat)👈*/
 
+
+.geralPeso1MPb {
+}
+.secqueestudeimp {
+}
+.atvnumletragabmp {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1em;
+    line-height: 1.5em;
+    text-align: justify;
+    hyphens: none;
+    margin: 1em 0 0.5em 38px;
+}
+.atvnumletragabmp+figure, .atvletragabmp+figure{
+    margin: 0.5em 0 0.5em 60px;
+}
+.letragab {
+}
+.atvletragabmp {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1em;
+    line-height: 1.5em;
+    text-align: justify;
+    hyphens: none;
+    margin: 0.5em 0 0.5em 38px;
+}
+.atvgabmp {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1em;
+    line-height: 1.5em;
+    text-align: justify;
+    hyphens: none;
+    margin: 1em 0 0.5em 38px;
+}
+.atvgabmp+figure{
+    margin: 1em 0 0.5em 38px;
+}
+.ajustepronuncia {
+}
+.ativletracontgabmp, .ativletracontgabmp+figure {
+    margin: 0.5em 0 0.5em 58px;
+}
+.atvgabcontmp {
+    margin: 0.5em 0 0.5em 38px;
+}
+.EstilounidgabmpPadroTransparentePreto {
+}
+.titunigabmp {
+}
+.secatvgabmp {
+}
+.atvnumletraitemgabmp {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1em;
+    line-height: 1.5em;
+    text-align: justify;
+    hyphens: none;
+    margin: 1em 0 0.5em 38px;
+}
+.atvletraitemcontgabmp {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1em;
+    line-height: 1.5em;
+    text-align: justify;
+    hyphens: none;
+    margin: 0.5em 0 0.5em 38px;
+}
+.atvnumitemgabmp {
+    margin: 0.5em 0 0.5em 38px;
+}
+.atvitemgabmp {
+    margin: 0.5em 0 0.5em 38px;
+}
+.atvletraitemgabmp {
+    margin: 0.5em 0 0.5em 38px;
+}
+
+
+.questaomp {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1em;
+    line-height: 1.5em;
+    text-align: justify;
+    hyphens: none;
+}
+.questao {
+    background: #e7e7e7;
+    font-family: 'Ubuntu';
+    font-weight: bold;
+    font-size: 1.1em;
+    margin: 1em 0 0.5em 0;
+}
+.questaoletramp {
+}
+.questaoletracontmp {
+}
+.tabelatit2mp {
+}
+.questaoNum {
+}
+.tabelatit1mp {
+}
+.tabelamp {
+}
+
+.questaocontmp {
+}
+.atvnumitemcongabmp {
+}
+.atvnumletraitemcontgabmp {
+}
+
+
+
 /*👉RESPOSTAS / GABARITO (Mat)👈*/
 
 .secResGab {
 }
-.secqueestudei {
+.secqueestudei, .secqueestudeimp {
     background: #000;
     border-radius: 0.5em 0.5em 0.5em 0;
     color: #fff;
@@ -3636,7 +3750,7 @@ blockquote.li_citacaoItemMP::before {
     margin: 1em 0 0 2em;
 }
 
-.secqueestudei::before {
+.secqueestudei::before, .secqueestudeimp::before  {
     background: url(../images/pv_oqueeu.svg) top left no-repeat;
     background-size: 100%;
     content: '';
