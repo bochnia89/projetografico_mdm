@@ -608,6 +608,10 @@ aside caption {
     border: 1px solid #F59D24;
     padding: 4px 8px;
 }
+.tb_amarelo tbody td:empty,
+.tb_amarelo thead th:empty {
+    height: 21px;
+}
 
 .tb_azul td,
 .tb_azul th {
@@ -3618,6 +3622,14 @@ blockquote.li_citacaoItemMP::before {
 
 /*👉RESOLUÇÕES (Mat)👈*/
 
+.fracaoReso {
+    margin-top: 0.4em!important;
+
+}
+.fracaoReso2 {
+    margin-top: 1.4em!important;
+
+}
 
 .geralPeso1MPb {
 }
@@ -3658,9 +3670,19 @@ blockquote.li_citacaoItemMP::before {
 .ajustepronuncia {
 }
 .ativletracontgabmp, .ativletracontgabmp+figure {
-    margin: 0.5em 0 0.5em 58px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1em;
+    line-height: 1.5em;
+    text-align: justify;
+    hyphens: none;
+    margin: 0.5em 0 0.5em 38px;
 }
 .atvgabcontmp {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1em;
+    line-height: 1.5em;
+    text-align: justify;
+    hyphens: none;
     margin: 0.5em 0 0.5em 38px;
 }
 .EstilounidgabmpPadroTransparentePreto {
@@ -3677,19 +3699,45 @@ blockquote.li_citacaoItemMP::before {
     hyphens: none;
     margin: 1em 0 0.5em 38px;
 }
+.atvnumletraitemgabmp+figure{
+    margin: 1em 0 0.5em 38px;
+}
 .atvletraitemcontgabmp {
     font-family: Arial, Helvetica, sans-serif;
     font-size: 1em;
     line-height: 1.5em;
     text-align: justify;
     hyphens: none;
-    margin: 0.5em 0 0.5em 38px;
+    margin: 0.5em 0 0.5em 62px;
+}
+.atvletraitemcontgabmp:before{
+    content: '•';
+    padding: 0 3px 0 0;
 }
 .atvnumitemgabmp {
     margin: 0.5em 0 0.5em 38px;
 }
+.questaoletramp+.atvitemgabmp,
+.questaoletramp+.atvitemgabmp+.atvitemgabmp,
+.questaoletramp+.atvitemgabmp+.atvitemgabmp+.atvitemgabmp  {
+    margin: 0.5em 0 0.5em 25px;
+}
+.questaoletramp+.atvitemgabmp:before{
+    content: '•';
+    padding: 0 3px 0 0;
+}
+
 .atvitemgabmp {
     margin: 0.5em 0 0.5em 38px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1em;
+    line-height: 1.5em;
+    text-align: justify;
+    hyphens: none;
+}
+.atvitemgabmp:before{
+    content: '•';
+    padding: 0 3px 0 0;
 }
 .atvletraitemgabmp {
     margin: 0.5em 0 0.5em 38px;
@@ -3702,6 +3750,7 @@ blockquote.li_citacaoItemMP::before {
     line-height: 1.5em;
     text-align: justify;
     hyphens: none;
+    margin: 1em 0 0.5em 0;
 }
 .questao {
     background: #e7e7e7;
@@ -3711,6 +3760,7 @@ blockquote.li_citacaoItemMP::before {
     margin: 1em 0 0.5em 0;
 }
 .questaoletramp {
+    margin: 0.5em 0 0.5em 0;
 }
 .questaoletracontmp {
 }
@@ -3724,10 +3774,23 @@ blockquote.li_citacaoItemMP::before {
 }
 
 .questaocontmp {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1em;
+    line-height: 1.5em;
+    text-align: justify;
+    hyphens: none;
+    margin: 0.5em 0 0.5em 0;
 }
 .atvnumitemcongabmp {
+    margin: 0.5em 0 0.5em 38px;
 }
 .atvnumletraitemcontgabmp {
+    margin: 0.5em 0 0.5em 38px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1em;
+    line-height: 1.5em;
+    text-align: justify;
+    hyphens: none;
 }
 
 
@@ -3899,7 +3962,7 @@ blockquote.li_citacaoItemMP::before {
     z-index: 5;
 }
 
-.unidgab {
+.unidgab, .unidgabmp {
     background: #000;
     border-radius: 0.5em 0em 0.5em 0;
     color: #fff;
@@ -3913,14 +3976,14 @@ blockquote.li_citacaoItemMP::before {
     margin: 1em 0 0 0;
 }
 
-.livreUni, .titunigab {
+.livreUni, .titunigab, .titunigabmp {
     font-family: 'Ubuntu';
     font-weight: bold;
     font-size: 1.1em;
     margin: 0 0 0.5em 0;
 }
 
-.secatvgab {
+.secatvgab, .secatvgabmp {
     background: #000;
     border-radius: 0 0.5em 0 0.5em;
     color: #fff;
@@ -3934,7 +3997,7 @@ blockquote.li_citacaoItemMP::before {
 }
 
 
-.secatvgab::after {
+.secatvgab::after, .secatvgabmp::after {
     content: '';
     background: url(../images/pv_atividades02.svg)top left no-repeat;
     background-size: 100%;
