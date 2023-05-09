@@ -3622,7 +3622,7 @@ blockquote.li_citacaoItemMP::before {
 
 /*👉RESOLUÇÕES (Mat)👈*/
 
-.fracaoReso {
+.box_geral_mpB .fracaoReso {
     margin-top: 0.4em!important;
 
 }
@@ -3744,7 +3744,7 @@ blockquote.li_citacaoItemMP::before {
 }
 
 
-.questaomp {
+.box_geral_mpB .questaomp {
     font-family: Arial, Helvetica, sans-serif;
     font-size: 1em;
     line-height: 1.5em;
@@ -3752,14 +3752,14 @@ blockquote.li_citacaoItemMP::before {
     hyphens: none;
     margin: 1em 0 0.5em 0;
 }
-.questao {
+.box_geral_mpB .questao {
     background: #e7e7e7;
     font-family: 'Ubuntu';
     font-weight: bold;
     font-size: 1.1em;
     margin: 1em 0 0.5em 0;
 }
-.questaoletramp {
+.box_geral_mpB .questaoletramp {
     margin: 0.5em 0 0.5em 0;
 }
 .questaoletracontmp {
@@ -3773,7 +3773,7 @@ blockquote.li_citacaoItemMP::before {
 .tabelamp {
 }
 
-.questaocontmp {
+.box_geral_mpB .questaocontmp {
     font-family: Arial, Helvetica, sans-serif;
     font-size: 1em;
     line-height: 1.5em;
@@ -3781,10 +3781,10 @@ blockquote.li_citacaoItemMP::before {
     hyphens: none;
     margin: 0.5em 0 0.5em 0;
 }
-.atvnumitemcongabmp {
+.box_geral_mpB .atvnumitemcongabmp {
     margin: 0.5em 0 0.5em 38px;
 }
-.atvnumletraitemcontgabmp {
+.box_geral_mpB .atvnumletraitemcontgabmp {
     margin: 0.5em 0 0.5em 38px;
     font-family: Arial, Helvetica, sans-serif;
     font-size: 1em;
